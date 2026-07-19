@@ -1,0 +1,195 @@
+OrderID,Activity,Timestamp,Resource
+ORD-1003,Out for Delivery,2026-06-07 03:36:00,Courier
+ORD-1017,Order Delivered,2026-06-14 12:48:00,Courier
+ORD-1015,Payment Received,2026-06-10 13:17:00,Payment_Gateway
+ORD-1003,Order Packed,2026-06-05 15:36:00,Warehouse_Team
+ORD-1017,Order Shipped,2026-06-12 07:48:00,Logistics_Team
+ORD-1021,Items Picked,2026-06-10 15:37:00,Warehouse_Team
+ORD-1006,Order Delivered,2026-06-05 11:03:00,Courier
+ORD-1019,Items Picked,2026-06-03 09:04:00,Warehouse_Team
+ORD-1021,Order Placed,2026-06-10 09:48:00,System
+ORD-1009,Order Confirmed,2026-06-08 08:20:00,System
+ORD-1020,Order Placed,2026-06-03 07:14:00,System
+ORD-1023,Items Picked,2026-06-03 00:34:00,Warehouse_Team
+ORD-1023,Payment Received,2026-06-02 17:26:00,Payment_Gateway
+ORD-1013,Order Packed,2026-06-04 12:53:00,Warehouse_Team
+ORD-1014,Order Delivered,2026-06-08 12:53:00,Courier
+ORD-1012,Payment Received,2026-06-11 07:19:00,Payment_Gateway
+ORD-1015,Order Confirmed,2026-06-10 16:02:00,System
+ORD-1018,Order Placed,2026-06-04 07:21:00,System
+ORD-1018,Order Cancelled,2026-06-04 13:35:00,System
+ORD-1010,Payment Failed,2026-06-10 13:44:00,Payment_Gateway
+ORD-1006,Payment Received,2026-06-01 22:57:00,Payment_Gateway
+ORD-1021,Payment Received,2026-06-10 12:02:00,Payment_Gateway
+ORD-1002,Payment Received,2026-06-04 08:44:00,Payment_Gateway
+ORD-1020,Order Confirmed,2026-06-03 11:44:00,System
+ORD-1013,Order Shipped,2026-06-05 02:53:00,Logistics_Team
+ORD-1011,Order Packed,2026-06-04 04:31:00,Warehouse_Team
+ORD-1017,Items Picked,2026-06-10 18:49:00,Warehouse_Team
+ORD-1014,Order Placed,2026-06-06 00:54:00,System
+ORD-1013,Order Placed,2026-06-04 03:40:00,System
+ORD-1015,Refund Issued,2026-06-14 20:14:00,Support_Agent
+ORD-1024,Items Picked,2026-06-10 22:33:00,Warehouse_Team
+ORD-1001,Order Confirmed,2026-06-07 22:35:00,System
+ORD-1024,Order Placed,2026-06-10 18:30:00,System
+ORD-1015,Out of Stock,2026-06-10 16:47:00,Warehouse_Team
+ORD-1004,Payment Failed,2026-06-07 03:17:00,Payment_Gateway
+ORD-1011,Order Confirmed,2026-06-04 01:19:00,System
+ORD-1005,Order Confirmed,2026-06-07 12:42:00,System
+ORD-1020,Payment Received,2026-06-03 11:12:00,Payment_Gateway
+ORD-1005,Items Picked,2026-06-07 15:25:00,Warehouse_Team
+ORD-1002,Items Picked,2026-06-04 13:35:00,Warehouse_Team
+ORD-1015,Order Cancelled,2026-06-10 20:14:00,System
+ORD-1014,Order Packed,2026-06-06 07:53:00,Warehouse_Team
+ORD-1016,Out for Delivery,2026-06-09 12:27:00,Courier
+ORD-1008,Order Confirmed,2026-06-05 07:07:00,System
+ORD-1003,Order Placed,2026-06-05 06:41:00,
+ORD-1017,Order Placed,2026-06-10 12:07:00,System
+ORD-1022,Order Confirmed,2026-06-07 11:44:00,System
+ORD-1016,Order Confirmed,2026-06-07 19:46:00,System
+ORD-1011,Out for Delivery,2026-06-05 02:31:00,Courier
+ORD-1008,Order Shipped,2026-06-06 15:10:00,Logistics_Team
+ORD-1012,Order Confirmed,2026-06-11 10:27:00,System
+ORD-1005,Order Delivered,2026-06-10 21:16:00,Courier
+ORD-1006,Out for Delivery,2026-06-04 02:03:00,
+ORD-1012,Order Placed,2026-06-11 03:30:00,System
+ORD-1013,Order Delivered,2026-06-07 07:53:00,Courier
+ORD-1007,Order Packed,2026-06-02 20:24:00,Warehouse_Team
+ORD-1009,Order Placed,2026-06-08 02:48:00,System
+ORD-1004,Order Cancelled,2026-06-07 03:42:00,System
+ORD-1021,Order Confirmed,2026-06-10 14:42:00,System
+ORD-1019,Order Shipped,2026-06-04 02:13:00,Logistics_Team
+ORD-1019,Out for Delivery,2026-06-05 00:13:00,Courier
+ORD-1009,Items Picked,2026-06-08 09:27:00,Warehouse_Team
+ORD-1021,Order Shipped,2026-06-11 09:21:00,Logistics_Team
+ORD-1022,Order Placed,2026-06-07 05:24:00,System
+ORD-1013,Payment Received,2026-06-04 04:48:00,Payment_Gateway
+ORD-1014,Out for Delivery,2026-06-07 15:53:00,
+ORD-1012,Order Packed,2026-06-11 12:51:00,Warehouse_Team
+ORD-1005,Return Initiated,2026-06-12 21:16:00,Customer
+ORD-1016,Order Delivered,2026-06-10 11:27:00,Courier
+ORD-1024,Order Shipped,2026-06-12 08:42:00,Logistics_Team
+ORD-1012,Order Delivered,2026-06-14 05:51:00,Courier
+ORD-1007,Order Confirmed,2026-06-02 13:59:00,System
+ORD-1001,Order Shipped,2026-06-09 09:00:00,Logistics_Team
+ORD-1002,Order Delivered,2026-06-06 01:06:00,Courier
+ORD-1014,Refund Issued,2026-06-10 12:53:00,Support_Agent
+ORD-1022,Payment Received,2026-06-07 07:44:00,
+ORD-1023,Order Placed,2026-06-02 13:37:00,System
+ORD-1013,Order Confirmed,2026-06-04 08:03:00,System
+ORD-1008,Order Delivered,2026-06-08 00:10:00,Courier
+ORD-1009,Payment Received,2026-06-08 05:09:00,Payment_Gateway
+ORD-1004,Order Placed,2026-06-07 01:36:00,System
+ORD-1016,Order Packed,2026-06-08 00:27:00,Warehouse_Team
+ORD-1006,Order Confirmed,2026-06-02 02:19:00,System
+ORD-1007,Order Shipped,2026-06-03 13:24:00,Logistics_Team
+ORD-1024,Payment Received,2026-06-10 18:55:00,Payment_Gateway
+ORD-1011,Order Shipped,2026-06-04 18:31:00,Logistics_Team
+ORD-1001,Order Delivered,2026-06-11 00:00:00,Courier
+ORD-1022,Out for Delivery,2026-06-09 03:27:00,Courier
+ORD-1017,Out for Delivery,2026-06-13 06:48:00,Courier
+ORD-1009,Order Delivered,2026-06-10 14:13:00,Courier
+ORD-1021,Order Delivered,2026-06-13 02:21:00,Courier
+ORD-1014,Order Confirmed,2026-06-06 05:15:00,System
+ORD-1001,Return Initiated,2026-06-15 00:00:00,Customer
+ORD-1013,Items Picked,2026-06-04 10:31:00,Warehouse_Team
+ORD-1011,Items Picked,2026-06-04 02:44:00,Warehouse_Team
+ORD-1020,Refund Issued,2026-06-06 18:16:00,Support_Agent
+ORD-1024,Order Confirmed,2026-06-10 19:21:00,System
+ORD-1005,Order Placed,2026-06-07 06:20:00,System
+ORD-1001,Items Picked,2026-06-07 22:41:00,Warehouse_Team
+ORD-1006,Order Placed,2026-06-01 21:54:00,System
+ORD-1007,Items Picked,2026-06-02 16:46:00,Warehouse_Team
+ORD-1011,Payment Received,2026-06-03 21:48:00,Payment_Gateway
+ORD-1021,Order Packed,2026-06-10 16:21:00,Warehouse_Team
+ORD-1016,Items Picked,2026-06-07 22:23:00,Warehouse_Team
+ORD-1007,Order Delivered,2026-06-04 17:24:00,Courier
+ORD-1012,Out for Delivery,2026-06-13 11:51:00,Courier
+ORD-1021,Items Picked,2026-06-10 15:37:00,Warehouse_Team
+ORD-1006,Order Packed,2026-06-02 04:03:00,Warehouse_Team
+ORD-1018,Refund Issued,2026-06-08 13:35:00,Support_Agent
+ORD-1007,Payment Received,2026-06-02 11:58:00,Payment_Gateway
+ORD-1019,Order Delivered,2026-06-06 06:13:00,Courier
+ORD-1008,Order Packed,2026-06-05 13:10:00,Warehouse_Team
+ORD-1002,Order Shipped,2026-06-04 22:06:00,
+ORD-1007,Out for Delivery,2026-06-04 00:24:00,Courier
+ORD-1003,Order Confirmed,2026-06-05 10:53:00,System
+ORD-1002,Order Packed,2026-06-04 14:06:00,Warehouse_Team
+ORD-1024,Order Packed,2026-06-11 00:42:00,Warehouse_Team
+ORD-1017,Order Confirmed,2026-06-10 18:15:00,System
+ORD-1011,Order Placed,2026-06-03 21:35:00,System
+ORD-1001,Refund Issued,2026-06-18 00:00:00,Support_Agent
+ORD-1014,Items Picked,2026-06-06 06:52:00,Warehouse_Team
+ORD-1014,Order Shipped,2026-06-06 17:53:00,Logistics_Team
+ORD-1022,Items Picked,2026-06-07 11:49:00,Warehouse_Team
+ORD-1002,Order Confirmed,2026-06-04 12:04:00,System
+ORD-1002,Out for Delivery,2026-06-05 16:06:00,Courier
+ORD-1007,Order Placed,2026-06-02 10:42:00,System
+ORD-1008,Items Picked,2026-06-05 10:11:00,Warehouse_Team
+ORD-1023,Order Packed,2026-06-03 01:57:00,Warehouse_Team
+ORD-1025,Order Placed,2026-06-07 03:21:00,System
+ORD-1016,Payment Received,2026-06-07 18:04:00,Payment_Gateway
+ORD-1003,Items Picked,2026-06-05 12:05:00,Warehouse_Team
+ORD-1021,Order Confirmed,2026-06-10 14:42:00,System
+ORD-1017,Order Packed,2026-06-10 21:48:00,Warehouse_Team
+ORD-1023,Order Delivered,2026-06-04 10:57:00,Courier
+ORD-1010,Order Placed,2026-06-10 10:21:00,System
+ORD-1005,Payment Received,2026-06-07 09:57:00,Payment_Gateway
+ORD-1019,Payment Received,2026-06-03 02:06:00,Payment_Gateway
+ORD-1005,Order Packed,2026-06-07 19:16:00,Warehouse_Team
+ORD-1019,Order Placed,2026-06-03 02:01:00,System
+ORD-1021,Out for Delivery,2026-06-12 15:21:00,Courier
+ORD-1022,Order Delivered,2026-06-09 09:27:00,Courier
+ORD-1016,Order Shipped,2026-06-08 22:27:00,Logistics_Team
+ORD-1001,Order Packed,2026-06-08 02:00:00,Warehouse_Team
+ORD-1013,Out for Delivery,2026-06-06 07:53:00,Courier
+ORD-1002,Order Packed,2026-06-04 14:06:00,Warehouse_Team
+ORD-1019,Order Shipped,2026-06-04 02:13:00,Logistics_Team
+ORD-1008,Out for Delivery,2026-06-06 23:10:00,Courier
+ORD-1005,Out for Delivery,2026-06-09 21:16:00,Courier
+ORD-1002,Order Placed,2026-06-04 07:44:00,System
+ORD-1025,Payment Failed,2026-06-07 03:58:00,Payment_Gateway
+ORD-1009,Return Initiated,2026-06-12 14:13:00,Customer
+ORD-1025,Order Cancelled,2026-06-07 04:35:00,System
+ORD-1012,Refund Issued,2026-06-20 05:51:00,Support_Agent
+ORD-1016,Order Placed,2026-06-07 16:21:00,System
+ORD-1019,Order Packed,2026-06-03 12:13:00,Warehouse_Team
+ORD-1001,Payment Received,2026-06-07 18:48:00,Payment_Gateway
+ORD-1011,Order Delivered,2026-06-05 14:31:00,Courier
+ORD-1024,Out for Delivery,2026-06-12 16:42:00,
+ORD-1012,Items Picked,2026-06-11 11:52:00,Warehouse_Team
+ORD-1018,Out of Stock,2026-06-04 12:15:00,Warehouse_Team
+ORD-1001,Order Packed,2026-06-08 02:00:00,Warehouse_Team
+ORD-1005,Refund Issued,2026-06-13 21:16:00,Support_Agent
+ORD-1022,Order Packed,2026-06-07 14:27:00,Warehouse_Team
+ORD-1005,Order Shipped,2026-06-09 04:16:00,Logistics_Team
+ORD-1015,Order Placed,2026-06-10 12:33:00,System
+ORD-1020,Order Cancelled,2026-06-03 18:16:00,System
+ORD-1008,Payment Received,2026-06-05 05:54:00,Payment_Gateway
+ORD-1009,Out for Delivery,2026-06-10 00:13:00,Courier
+ORD-1006,Order Shipped,2026-06-03 13:03:00,Logistics_Team
+ORD-1003,Payment Received,2026-06-05 08:14:00,Payment_Gateway
+ORD-1001,Out for Delivery,2026-06-09 20:00:00,Courier
+ORD-1008,Order Placed,2026-06-05 02:58:00,System
+ORD-1010,Order Cancelled,2026-06-10 14:03:00,System
+ORD-1001,Order Placed,2026-06-07 15:16:00,System
+ORD-1023,Order Confirmed,2026-06-02 21:03:00,System
+ORD-1018,Payment Received,2026-06-04 10:10:00,Payment_Gateway
+ORD-1017,Payment Received,2026-06-10 15:06:00,Payment_Gateway
+ORD-1023,Out for Delivery,2026-06-03 21:57:00,Courier
+ORD-1009,Order Shipped,2026-06-09 06:13:00,Logistics_Team
+ORD-1022,Order Shipped,2026-06-08 06:27:00,Logistics_Team
+ORD-1018,Order Confirmed,2026-06-04 11:42:00,System
+ORD-1006,Items Picked,2026-06-02 03:38:00,Warehouse_Team
+ORD-1014,Return Initiated,2026-06-09 12:53:00,Customer
+ORD-1012,Order Shipped,2026-06-12 14:51:00,Logistics_Team
+ORD-1009,Refund Issued,2026-06-15 14:13:00,Support_Agent
+ORD-1003,Order Shipped,2026-06-05 22:36:00,Logistics_Team
+ORD-1019,Order Confirmed,2026-06-03 05:15:00,System
+ORD-1024,Order Delivered,2026-06-13 22:42:00,Courier
+ORD-1012,Return Initiated,2026-06-18 05:51:00,Customer
+ORD-1014,Payment Received,2026-06-06 03:28:00,Payment_Gateway
+ORD-1020,Out of Stock,2026-06-03 15:31:00,Warehouse_Team
+ORD-1009,Order Packed,2026-06-08 10:13:00,
+ORD-1003,Order Delivered,2026-06-07 23:36:00,Courier
+ORD-1023,Order Shipped,2026-06-03 14:57:00,Logistics_Team

@@ -1,0 +1,1001 @@
+Student_ID,Department,Semester,Gender,CGPA,Attendance,Study_Hours,City,Placement_Status
+STU0001,AI&DS,2,Male,8.71,69.8,2.0,Raipur,Placed
+STU0002,CE,7,Male,5.15,68.7,4.5,Raipur,Placed
+STU0003,AI&DS,7,Male,7.25,71.1,7.1,Delhi,Not Placed
+STU0004,EE,5,Male,6.08,90.5,1.7,Pune,Placed
+STU0005,EE,6,Female,9.04,89.2,4.8,Pune,Placed
+STU0006,CE,5,Female,7.89,88.2,1.3,Delhi,Not Placed
+STU0007,CSE,4,Male,6.9,78.1,6.8,Delhi,Not Placed
+STU0008,EE,4,Female,8.51,87.3,1.5,Bangalore,Placed
+STU0009,CE,4,Male,7.31,70.8,7.5,Bangalore,Placed
+STU0010,AI&DS,6,Male,6.15,61.3,3.2,Mumbai,Placed
+STU0011,ECE,6,Male,8.28,75.8,7.4,Pune,Placed
+STU0012,EE,3,Male,8.72,81.6,6.2,Pune,Not Placed
+STU0013,EE,4,Male,7.55,63.6,1.3,Raipur,Placed
+STU0014,AI&DS,3,Female,7.98,75.4,5.2,Pune,Not Placed
+STU0015,CE,1,Male,8.41,81.5,2.9,Bangalore,Not Placed
+STU0016,CSE,5,Female,5.79,60.1,6.1,Bangalore,Not Placed
+STU0017,CE,3,Male,9.35,71.9,5.5,Hyderabad,Placed
+STU0018,ECE,6,Male,7.7,91.1,4.7,Raipur,Not Placed
+STU0019,ME,1,Male,9.65,95.1,6.8,Mumbai,Placed
+STU0020,CSE,4,Male,5.43,79.4,1.5,Hyderabad,Placed
+STU0021,ECE,8,Male,6.33,94.9,4.0,Delhi,Placed
+STU0022,AI&DS,5,Female,9.98,86.0,4.1,Hyderabad,Not Placed
+STU0023,CSE,4,Male,5.32,60.8,4.9,Hyderabad,Placed
+STU0024,CSE,2,Male,6.14,96.2,7.0,Raipur,Placed
+STU0025,EE,8,Male,7.7,88.9,7.2,Hyderabad,Not Placed
+STU0026,ECE,8,Female,5.95,63.9,4.0,Pune,Not Placed
+STU0027,ME,1,Male,5.3,89.1,6.6,Raipur,Placed
+STU0028,ECE,4,Female,5.7,67.3,4.2,Raipur,Not Placed
+STU0029,CE,2,Male,8.26,81.6,1.1,Raipur,Placed
+STU0030,ECE,7,Female,7.41,94.6,7.3,Delhi,Not Placed
+STU0031,CSE,7,Female,9.63,91.4,3.0,Bangalore,Not Placed
+STU0032,ECE,4,Female,6.09,62.3,6.2,Raipur,Not Placed
+STU0033,CSE,1,Female,7.51,94.1,2.1,Hyderabad,Placed
+STU0034,ECE,2,Male,8.38,69.4,1.8,Hyderabad,Placed
+STU0035,CE,1,Male,7.1,83.3,4.7,Mumbai,Placed
+STU0036,AI&DS,6,Male,6.33,65.2,5.5,Pune,Not Placed
+STU0037,CSE,1,Female,8.11,82.5,1.7,Hyderabad,Placed
+STU0038,CE,5,Male,9.67,95.2,7.2,Mumbai,Not Placed
+STU0039,ECE,8,Female,8.06,99.5,5.6,Raipur,Not Placed
+STU0040,AI&DS,2,Male,6.32,95.6,6.2,Delhi,Not Placed
+STU0041,EE,4,Female,6.02,85.4,2.8,Pune,Not Placed
+STU0042,CSE,2,Female,9.15,61.8,3.3,Delhi,Not Placed
+STU0043,ECE,8,Female,7.8,64.5,7.6,Bangalore,Placed
+STU0044,CE,1,Female,7.91,65.9,1.9,Mumbai,Not Placed
+STU0045,CSE,6,Male,8.41,86.7,3.5,Hyderabad,Not Placed
+STU0046,CE,3,Male,9.32,99.0,6.7,Pune,Placed
+STU0047,ECE,6,Female,9.01,94.6,6.7,Mumbai,Placed
+STU0048,AI&DS,2,Female,9.36,94.3,2.6,Pune,Not Placed
+STU0049,EE,4,Male,5.12,67.7,3.3,Raipur,Not Placed
+STU0050,EE,7,Female,9.7,64.6,7.8,Delhi,Not Placed
+STU0051,CSE,2,Female,6.73,91.5,4.1,Hyderabad,Placed
+STU0052,ME,4,Female,5.22,77.4,4.6,Hyderabad,Placed
+STU0053,EE,7,Male,9.74,96.8,5.4,Bangalore,Placed
+STU0054,AI&DS,5,Female,8.33,73.0,5.9,Hyderabad,Placed
+STU0055,ECE,7,Female,8.39,96.1,5.3,Mumbai,Not Placed
+STU0056,CE,1,Female,6.43,77.2,5.1,Bangalore,Not Placed
+STU0057,ME,8,Female,8.38,80.4,6.6,Bangalore,Placed
+STU0058,AI&DS,2,Female,7.58,85.3,3.3,Delhi,Not Placed
+STU0059,ECE,4,Male,5.12,69.8,4.3,Raipur,Not Placed
+STU0060,ME,4,Female,7.47,69.8,5.6,Raipur,Placed
+STU0061,ME,4,Male,9.02,87.8,4.3,Hyderabad,Placed
+STU0062,CSE,8,Male,9.01,86.7,7.9,Hyderabad,Not Placed
+STU0063,ME,7,Female,9.49,89.7,4.3,Mumbai,Placed
+STU0064,AI&DS,5,Female,8.13,71.0,1.5,Mumbai,Placed
+STU0065,EE,6,Female,9.47,63.2,2.1,Pune,Placed
+STU0066,AI&DS,4,Male,7.07,73.2,4.3,Raipur,Placed
+STU0067,ME,7,Male,9.28,90.6,3.7,Raipur,Not Placed
+STU0068,EE,7,Female,7.69,89.4,6.6,Delhi,Not Placed
+STU0069,ECE,5,Female,7.43,75.6,5.7,Pune,Placed
+STU0070,ME,3,Male,9.53,83.7,5.6,Raipur,Not Placed
+STU0071,ECE,8,Male,5.25,75.2,2.5,Mumbai,Not Placed
+STU0072,ME,5,Female,6.26,63.3,1.1,Hyderabad,Placed
+STU0073,EE,4,Male,8.91,86.1,6.3,Delhi,Placed
+STU0074,CSE,3,Male,5.63,86.8,4.9,Delhi,Not Placed
+STU0075,AI&DS,5,Female,5.84,84.3,6.2,Raipur,Placed
+STU0076,EE,2,Male,9.64,83.0,7.4,Pune,Not Placed
+STU0077,AI&DS,4,Male,7.96,93.2,2.7,Bangalore,Not Placed
+STU0078,AI&DS,2,Male,6.74,77.1,3.6,Hyderabad,Not Placed
+STU0079,CSE,7,Female,5.53,98.4,5.4,Pune,Placed
+STU0080,ME,3,Female,8.08,96.8,6.4,Pune,Not Placed
+STU0081,AI&DS,5,Female,9.26,93.2,1.6,Pune,Placed
+STU0082,ME,7,Female,5.14,94.0,2.3,Delhi,Not Placed
+STU0083,EE,6,Female,9.4,88.0,2.9,Raipur,Placed
+STU0084,CSE,4,Female,7.44,90.3,5.8,Bangalore,Not Placed
+STU0085,ME,1,Male,6.47,76.2,2.7,Bangalore,Not Placed
+STU0086,ME,6,Female,9.98,82.0,3.5,Pune,Not Placed
+STU0087,EE,5,Male,5.6,67.7,1.8,Hyderabad,Placed
+STU0088,ECE,4,Female,6.38,83.6,6.3,Hyderabad,Not Placed
+STU0089,CSE,4,Female,6.14,67.2,1.1,Hyderabad,Placed
+STU0090,EE,1,Male,7.77,87.9,1.9,Pune,Placed
+STU0091,CSE,5,Female,7.39,73.6,7.8,Mumbai,Not Placed
+STU0092,CSE,2,Female,7.46,83.1,5.8,Delhi,Placed
+STU0093,CE,5,Male,9.97,64.7,6.4,Hyderabad,Placed
+STU0094,CE,7,Female,9.54,71.9,5.1,Pune,Not Placed
+STU0095,CE,1,Male,9.74,68.3,2.5,Bangalore,Placed
+STU0096,ECE,4,Male,7.76,66.3,3.9,Bangalore,Not Placed
+STU0097,EE,1,Male,6.44,71.3,7.0,Raipur,Placed
+STU0098,EE,4,Female,5.57,69.0,2.0,Mumbai,Placed
+STU0099,CSE,1,Male,8.96,83.8,6.8,Mumbai,Not Placed
+STU0100,CSE,8,Female,8.5,97.7,4.5,Pune,Not Placed
+STU0101,CSE,1,Female,8.67,84.1,1.2,Delhi,Placed
+STU0102,AI&DS,5,Male,8.82,67.0,4.6,Pune,Not Placed
+STU0103,ECE,7,Female,9.85,78.8,3.9,Mumbai,Placed
+STU0104,ECE,6,Female,8.47,71.5,7.6,Hyderabad,Placed
+STU0105,ME,2,Female,6.26,64.6,6.4,Hyderabad,Placed
+STU0106,AI&DS,8,Female,5.27,80.7,5.4,Pune,Not Placed
+STU0107,CSE,4,Female,7.75,97.1,4.1,Bangalore,Not Placed
+STU0108,CSE,1,Male,8.55,72.4,1.1,Pune,Placed
+STU0109,ECE,2,Female,9.74,85.9,2.1,Bangalore,Not Placed
+STU0110,CE,5,Female,9.17,99.2,2.7,Hyderabad,Placed
+STU0111,ME,4,Male,9.32,71.0,6.5,Pune,Not Placed
+STU0112,CE,5,Male,6.41,71.9,5.1,Bangalore,Not Placed
+STU0113,ECE,8,Female,6.73,82.1,4.8,Pune,Not Placed
+STU0114,ECE,4,Female,6.17,91.0,1.3,Bangalore,Not Placed
+STU0115,AI&DS,7,Female,9.94,91.7,5.6,Delhi,Not Placed
+STU0116,CSE,3,Female,9.35,95.0,4.1,Hyderabad,Not Placed
+STU0117,CSE,3,Female,9.35,98.8,1.5,Mumbai,Not Placed
+STU0118,CE,7,Male,9.26,94.1,7.0,Pune,Not Placed
+STU0119,AI&DS,8,Male,8.09,69.4,5.8,Mumbai,Placed
+STU0120,AI&DS,2,Female,9.89,90.4,5.9,Raipur,Not Placed
+STU0121,ECE,5,Male,5.23,91.8,3.1,Mumbai,Not Placed
+STU0122,ECE,4,Female,7.83,91.7,2.2,Raipur,Not Placed
+STU0123,CE,4,Female,9.56,65.7,4.2,Mumbai,Not Placed
+STU0124,EE,1,Female,9.51,87.1,2.1,Pune,Not Placed
+STU0125,CE,5,Female,8.45,78.3,3.1,Pune,Not Placed
+STU0126,CSE,4,Female,7.86,83.0,7.9,Mumbai,Placed
+STU0127,AI&DS,7,Female,5.04,94.6,6.4,Raipur,Not Placed
+STU0128,EE,4,Female,6.1,67.6,2.8,Bangalore,Placed
+STU0129,AI&DS,2,Male,6.54,77.6,5.1,Bangalore,Placed
+STU0130,CSE,5,Female,8.74,67.0,1.9,Hyderabad,Not Placed
+STU0131,CE,5,Male,6.28,93.0,4.4,Mumbai,Not Placed
+STU0132,CSE,8,Male,5.7,98.7,7.0,Bangalore,Not Placed
+STU0133,CE,6,Male,8.95,60.6,4.8,Pune,Not Placed
+STU0134,AI&DS,5,Female,9.11,97.6,1.8,Delhi,Not Placed
+STU0135,CSE,6,Male,8.24,85.4,4.2,Bangalore,Not Placed
+STU0136,AI&DS,7,Male,5.7,97.9,3.1,Pune,Placed
+STU0137,CSE,4,Male,6.94,74.8,7.6,Bangalore,Not Placed
+STU0138,CE,3,Female,8.27,93.3,5.3,Mumbai,Placed
+STU0139,AI&DS,6,Male,7.22,98.0,7.0,Raipur,Not Placed
+STU0140,CE,6,Male,6.99,67.6,1.9,Pune,Placed
+STU0141,AI&DS,4,Male,5.25,73.3,7.9,Hyderabad,Placed
+STU0142,CSE,4,Male,9.07,69.3,6.4,Hyderabad,Placed
+STU0143,EE,3,Male,7.7,91.9,1.8,Raipur,Placed
+STU0144,CSE,6,Male,7.94,60.6,2.9,Delhi,Not Placed
+STU0145,CE,2,Male,7.38,91.1,4.6,Raipur,Not Placed
+STU0146,CE,4,Male,8.64,96.4,5.6,Mumbai,Not Placed
+STU0147,AI&DS,1,Male,9.99,93.9,4.0,Raipur,Not Placed
+STU0148,AI&DS,8,Male,9.5,72.9,2.0,Delhi,Not Placed
+STU0149,CE,6,Female,9.97,81.2,4.2,Hyderabad,Not Placed
+STU0150,CSE,2,Male,7.15,95.5,3.9,Pune,Not Placed
+STU0151,ME,2,Female,7.13,86.6,3.6,Delhi,Not Placed
+STU0152,CSE,2,Male,5.47,63.9,6.2,Delhi,Placed
+STU0153,CE,6,Male,7.05,94.9,7.6,Pune,Placed
+STU0154,EE,5,Female,5.52,80.3,2.1,Pune,Placed
+STU0155,CSE,6,Female,5.57,71.1,2.6,Pune,Placed
+STU0156,CE,5,Male,5.9,88.1,3.2,Mumbai,Not Placed
+STU0157,CSE,3,Male,7.83,76.0,2.0,Bangalore,Placed
+STU0158,CSE,4,Female,7.1,73.6,3.6,Bangalore,Not Placed
+STU0159,CE,2,Male,5.78,90.2,1.3,Raipur,Not Placed
+STU0160,ME,7,Female,8.04,76.6,2.5,Hyderabad,Placed
+STU0161,EE,7,Male,6.42,87.1,4.4,Bangalore,Not Placed
+STU0162,CSE,4,Female,9.92,62.2,2.4,Delhi,Placed
+STU0163,EE,5,Female,5.6,79.9,4.0,Delhi,Not Placed
+STU0164,CE,4,Female,5.36,94.5,1.3,Raipur,Not Placed
+STU0165,CSE,6,Female,7.87,88.4,3.9,Raipur,Not Placed
+STU0166,CSE,6,Male,9.01,84.7,6.8,Mumbai,Placed
+STU0167,ME,2,Male,7.18,76.0,1.6,Mumbai,Not Placed
+STU0168,ECE,6,Male,5.38,85.3,4.7,Delhi,Not Placed
+STU0169,EE,3,Male,5.51,70.2,2.2,Delhi,Placed
+STU0170,ECE,8,Female,8.77,90.4,4.1,Hyderabad,Not Placed
+STU0171,AI&DS,6,Male,7.2,78.8,5.4,Mumbai,Placed
+STU0172,EE,2,Female,7.31,61.5,3.6,Mumbai,Placed
+STU0173,AI&DS,2,Female,7.31,82.2,6.5,Raipur,Not Placed
+STU0174,CE,4,Female,8.03,80.1,7.7,Pune,Placed
+STU0175,EE,2,Male,5.2,88.3,7.9,Hyderabad,Placed
+STU0176,EE,6,Female,6.94,91.0,5.8,Raipur,Not Placed
+STU0177,CSE,6,Male,7.79,75.5,2.8,Bangalore,Placed
+STU0178,EE,2,Male,9.58,72.4,5.6,Bangalore,Not Placed
+STU0179,ECE,2,Female,7.79,85.7,3.3,Delhi,Placed
+STU0180,AI&DS,7,Female,5.09,72.4,7.7,Mumbai,Not Placed
+STU0181,ECE,4,Male,5.77,71.8,6.5,Hyderabad,Placed
+STU0182,AI&DS,6,Male,7.99,66.2,2.3,Bangalore,Placed
+STU0183,AI&DS,8,Male,7.05,87.1,2.7,Pune,Not Placed
+STU0184,AI&DS,8,Male,7.67,72.4,6.7,Pune,Placed
+STU0185,EE,8,Female,8.85,91.1,4.5,Pune,Placed
+STU0186,ECE,3,Female,5.26,79.2,3.6,Raipur,Placed
+STU0187,EE,2,Male,6.36,96.2,2.0,Pune,Placed
+STU0188,ECE,8,Female,9.65,76.6,3.8,Mumbai,Placed
+STU0189,ME,2,Female,6.12,72.7,1.7,Bangalore,Not Placed
+STU0190,ECE,3,Male,6.43,93.2,5.9,Delhi,Not Placed
+STU0191,ME,1,Male,5.1,68.6,2.0,Bangalore,Not Placed
+STU0192,CSE,5,Male,6.51,61.9,3.9,Hyderabad,Not Placed
+STU0193,CSE,2,Female,7.98,60.7,4.6,Delhi,Placed
+STU0194,EE,7,Male,8.07,69.6,3.9,Bangalore,Placed
+STU0195,CE,6,Male,9.77,81.8,6.5,Hyderabad,Placed
+STU0196,ME,8,Male,8.18,99.2,2.8,Raipur,Not Placed
+STU0197,CSE,6,Male,8.66,85.1,6.4,Bangalore,Not Placed
+STU0198,ECE,1,Female,7.73,92.5,2.2,Bangalore,Not Placed
+STU0199,AI&DS,8,Male,9.06,62.5,6.4,Pune,Placed
+STU0200,EE,4,Male,8.96,95.4,3.2,Mumbai,Not Placed
+STU0201,CE,8,Female,5.18,85.9,3.0,Raipur,Not Placed
+STU0202,EE,2,Female,7.18,76.0,4.1,Pune,Not Placed
+STU0203,ECE,8,Female,6.84,91.9,2.9,Raipur,Not Placed
+STU0204,CSE,7,Male,7.73,72.8,1.6,Bangalore,Not Placed
+STU0205,EE,8,Female,5.83,77.8,4.1,Bangalore,Not Placed
+STU0206,CE,7,Female,8.2,91.7,1.4,Bangalore,Not Placed
+STU0207,EE,3,Male,5.71,84.3,6.5,Raipur,Placed
+STU0208,CSE,4,Female,6.81,98.0,1.2,Delhi,Not Placed
+STU0209,EE,6,Female,8.82,83.0,4.7,Pune,Not Placed
+STU0210,AI&DS,5,Male,9.8,61.0,2.3,Hyderabad,Not Placed
+STU0211,CE,2,Female,8.87,88.2,2.5,Hyderabad,Not Placed
+STU0212,AI&DS,8,Male,5.61,94.1,4.2,Bangalore,Not Placed
+STU0213,CSE,6,Female,8.55,82.0,3.0,Mumbai,Placed
+STU0214,AI&DS,3,Female,7.54,64.9,2.4,Delhi,Placed
+STU0215,ME,1,Female,7.77,74.8,6.6,Hyderabad,Placed
+STU0216,CE,2,Male,6.55,100.0,6.0,Hyderabad,Not Placed
+STU0217,ME,2,Male,9.86,85.7,4.1,Bangalore,Not Placed
+STU0218,ECE,3,Male,7.16,96.4,1.4,Raipur,Placed
+STU0219,EE,3,Male,6.61,88.4,3.4,Hyderabad,Not Placed
+STU0220,CSE,5,Male,8.18,82.0,1.9,Mumbai,Placed
+STU0221,CE,3,Male,5.86,85.0,7.3,Mumbai,Placed
+STU0222,CSE,2,Male,9.74,90.8,2.9,Delhi,Not Placed
+STU0223,CE,1,Female,9.44,81.8,5.5,Mumbai,Not Placed
+STU0224,ECE,7,Female,7.27,87.5,2.1,Pune,Not Placed
+STU0225,ME,4,Female,8.03,72.5,6.0,Bangalore,Not Placed
+STU0226,ME,3,Female,7.57,64.2,2.7,Raipur,Not Placed
+STU0227,ME,4,Male,5.48,71.6,3.7,Hyderabad,Not Placed
+STU0228,ECE,3,Female,9.67,88.8,2.3,Delhi,Not Placed
+STU0229,CE,8,Female,9.4,79.9,1.6,Pune,Not Placed
+STU0230,ECE,4,Female,5.24,71.3,5.2,Bangalore,Not Placed
+STU0231,EE,1,Male,7.15,95.3,6.1,Pune,Not Placed
+STU0232,CSE,7,Male,7.85,67.8,4.9,Raipur,Not Placed
+STU0233,CE,8,Female,9.13,84.9,5.3,Delhi,Placed
+STU0234,ME,6,Female,7.79,74.6,2.0,Hyderabad,Not Placed
+STU0235,CE,1,Male,5.19,88.5,6.6,Hyderabad,Not Placed
+STU0236,ECE,3,Female,9.66,72.7,3.8,Hyderabad,Not Placed
+STU0237,CE,6,Female,8.54,72.0,6.7,Mumbai,Not Placed
+STU0238,AI&DS,2,Female,7.92,91.9,6.1,Bangalore,Placed
+STU0239,CE,8,Female,9.84,91.3,6.4,Hyderabad,Placed
+STU0240,AI&DS,1,Female,5.85,85.2,5.3,Pune,Placed
+STU0241,AI&DS,4,Male,7.86,88.0,2.3,Pune,Not Placed
+STU0242,ME,3,Female,8.45,76.4,6.4,Pune,Placed
+STU0243,AI&DS,3,Male,7.8,99.9,4.3,Pune,Not Placed
+STU0244,ECE,8,Female,7.73,87.0,7.1,Bangalore,Not Placed
+STU0245,CE,8,Male,9.79,71.2,3.1,Mumbai,Not Placed
+STU0246,AI&DS,4,Female,6.59,74.0,7.5,Bangalore,Not Placed
+STU0247,EE,2,Female,9.48,75.8,3.4,Delhi,Not Placed
+STU0248,CSE,5,Male,6.73,77.7,2.8,Pune,Placed
+STU0249,ECE,5,Female,5.69,84.6,5.1,Delhi,Placed
+STU0250,AI&DS,4,Male,5.26,76.5,6.0,Raipur,Placed
+STU0251,CSE,3,Female,8.26,95.2,4.3,Bangalore,Placed
+STU0252,EE,6,Female,8.23,96.3,1.6,Hyderabad,Placed
+STU0253,CE,1,Male,7.09,93.5,7.5,Raipur,Not Placed
+STU0254,ME,3,Female,9.38,60.4,5.0,Raipur,Not Placed
+STU0255,EE,8,Female,9.45,65.4,4.5,Mumbai,Placed
+STU0256,CSE,6,Male,8.66,85.9,6.0,Raipur,Not Placed
+STU0257,EE,4,Male,8.05,85.5,3.8,Pune,Not Placed
+STU0258,CSE,7,Male,5.92,65.6,3.3,Delhi,Placed
+STU0259,EE,7,Male,7.23,70.7,3.3,Hyderabad,Placed
+STU0260,EE,6,Male,5.31,64.7,3.1,Pune,Not Placed
+STU0261,AI&DS,2,Female,6.84,68.8,7.7,Pune,Placed
+STU0262,ME,6,Female,8.51,96.5,6.3,Bangalore,Placed
+STU0263,ECE,2,Female,7.64,74.5,7.4,Raipur,Placed
+STU0264,CE,4,Male,5.82,94.2,4.1,Bangalore,Placed
+STU0265,AI&DS,8,Male,9.49,77.8,1.4,Delhi,Not Placed
+STU0266,ME,1,Female,8.36,72.3,1.2,Mumbai,Placed
+STU0267,AI&DS,4,Male,5.23,73.8,1.4,Raipur,Placed
+STU0268,ME,1,Female,7.04,90.8,6.4,Bangalore,Not Placed
+STU0269,EE,7,Female,9.35,96.3,3.6,Bangalore,Placed
+STU0270,AI&DS,6,Male,5.89,81.5,4.7,Bangalore,Placed
+STU0271,CSE,1,Female,7.32,88.8,4.0,Pune,Placed
+STU0272,ECE,8,Female,5.78,67.5,7.1,Raipur,Placed
+STU0273,AI&DS,7,Male,6.2,62.7,5.2,Pune,Placed
+STU0274,ECE,1,Female,7.19,81.6,6.3,Raipur,Placed
+STU0275,CE,5,Male,9.08,89.3,3.2,Hyderabad,Not Placed
+STU0276,ECE,5,Male,9.93,80.9,3.9,Mumbai,Placed
+STU0277,CE,3,Female,7.78,61.9,3.4,Bangalore,Not Placed
+STU0278,CE,6,Female,7.04,72.0,2.3,Hyderabad,Not Placed
+STU0279,ECE,4,Female,9.29,65.8,4.2,Raipur,Not Placed
+STU0280,ME,3,Female,6.21,68.1,5.5,Pune,Not Placed
+STU0281,CSE,4,Male,6.34,86.9,5.2,Raipur,Placed
+STU0282,CE,4,Female,6.04,96.3,3.1,Raipur,Placed
+STU0283,ECE,2,Female,9.57,87.8,5.9,Pune,Placed
+STU0284,CE,6,Female,6.9,81.3,3.5,Mumbai,Not Placed
+STU0285,CE,8,Female,5.49,99.3,4.3,Mumbai,Placed
+STU0286,EE,6,Female,5.23,94.6,6.2,Raipur,Not Placed
+STU0287,CE,7,Female,5.76,73.2,3.7,Delhi,Not Placed
+STU0288,CE,6,Female,8.82,79.5,6.1,Bangalore,Not Placed
+STU0289,ME,3,Female,5.85,88.8,4.4,Hyderabad,Placed
+STU0290,CE,1,Male,9.73,86.7,6.4,Pune,Placed
+STU0291,AI&DS,4,Male,8.54,60.4,4.5,Mumbai,Placed
+STU0292,CE,8,Female,5.08,81.3,3.9,Raipur,Not Placed
+STU0293,CE,5,Male,7.51,87.9,4.0,Delhi,Placed
+STU0294,CSE,3,Male,5.96,81.1,6.7,Mumbai,Not Placed
+STU0295,CSE,6,Female,7.29,69.7,5.9,Mumbai,Placed
+STU0296,AI&DS,1,Male,7.03,75.1,4.3,Bangalore,Placed
+STU0297,AI&DS,3,Male,7.5,77.4,6.5,Hyderabad,Placed
+STU0298,CE,1,Male,6.06,94.7,7.2,Pune,Not Placed
+STU0299,CSE,2,Female,9.5,82.5,1.2,Mumbai,Placed
+STU0300,ECE,3,Female,9.64,72.0,4.9,Hyderabad,Not Placed
+STU0301,AI&DS,6,Female,8.78,65.6,7.9,Bangalore,Placed
+STU0302,CE,6,Male,5.49,69.3,1.5,Hyderabad,Not Placed
+STU0303,EE,1,Female,8.92,78.0,2.6,Hyderabad,Not Placed
+STU0304,ME,3,Female,5.43,84.7,6.6,Bangalore,Placed
+STU0305,CSE,5,Male,6.9,91.4,2.1,Pune,Not Placed
+STU0306,EE,2,Male,5.03,72.3,3.5,Mumbai,Placed
+STU0307,ECE,2,Male,7.15,82.3,4.6,Raipur,Placed
+STU0308,CSE,6,Male,7.98,91.4,7.0,Raipur,Not Placed
+STU0309,ME,7,Male,8.62,82.4,7.9,Delhi,Placed
+STU0310,AI&DS,7,Male,5.69,72.0,4.5,Raipur,Placed
+STU0311,ME,5,Female,6.5,91.3,3.5,Delhi,Not Placed
+STU0312,CE,4,Female,5.53,72.2,7.6,Mumbai,Not Placed
+STU0313,EE,8,Female,7.15,92.9,5.6,Hyderabad,Placed
+STU0314,EE,6,Male,7.4,67.1,3.8,Mumbai,Not Placed
+STU0315,AI&DS,8,Male,6.63,71.2,6.5,Mumbai,Placed
+STU0316,CE,4,Male,8.41,82.0,7.7,Pune,Placed
+STU0317,ME,5,Male,9.09,91.8,3.9,Pune,Placed
+STU0318,AI&DS,5,Male,6.26,66.2,4.0,Pune,Placed
+STU0319,ME,8,Female,7.67,96.9,7.1,Pune,Placed
+STU0320,EE,2,Male,8.84,86.3,3.5,Bangalore,Placed
+STU0321,CE,7,Female,9.83,77.2,1.1,Mumbai,Placed
+STU0322,CE,4,Female,6.87,78.5,5.8,Bangalore,Placed
+STU0323,EE,1,Female,5.52,76.6,7.7,Raipur,Placed
+STU0324,EE,5,Female,7.28,68.3,4.4,Pune,Placed
+STU0325,ME,8,Female,5.34,61.8,6.0,Raipur,Not Placed
+STU0326,AI&DS,2,Male,9.65,89.6,4.6,Hyderabad,Placed
+STU0327,EE,7,Female,6.16,76.2,2.3,Bangalore,Not Placed
+STU0328,ME,1,Male,7.25,77.2,1.0,Delhi,Placed
+STU0329,EE,2,Male,9.0,81.5,3.6,Delhi,Not Placed
+STU0330,CSE,5,Female,7.64,85.6,5.2,Hyderabad,Not Placed
+STU0331,CE,2,Female,6.76,78.3,2.2,Bangalore,Not Placed
+STU0332,CE,2,Male,6.57,69.5,1.8,Mumbai,Placed
+STU0333,CE,7,Female,7.98,83.0,4.0,Pune,Placed
+STU0334,CE,3,Female,6.44,67.5,6.9,Hyderabad,Placed
+STU0335,EE,1,Female,5.68,92.6,7.7,Hyderabad,Not Placed
+STU0336,ME,8,Female,8.55,77.8,2.2,Hyderabad,Placed
+STU0337,ECE,5,Male,6.37,81.5,2.2,Pune,Not Placed
+STU0338,CE,2,Male,6.34,81.7,7.9,Hyderabad,Placed
+STU0339,AI&DS,8,Male,9.95,64.1,6.8,Delhi,Not Placed
+STU0340,CSE,8,Female,6.74,92.7,4.1,Raipur,Placed
+STU0341,ECE,6,Female,5.83,65.6,2.4,Delhi,Placed
+STU0342,CE,6,Female,7.98,66.7,7.9,Mumbai,Not Placed
+STU0343,CE,5,Male,5.68,90.0,3.9,Raipur,Not Placed
+STU0344,AI&DS,3,Male,6.25,88.5,6.8,Bangalore,Not Placed
+STU0345,ME,3,Female,8.14,75.0,1.5,Raipur,Not Placed
+STU0346,CE,5,Female,7.27,79.5,5.1,Bangalore,Placed
+STU0347,AI&DS,8,Female,9.25,91.8,3.8,Pune,Placed
+STU0348,ME,5,Female,9.14,73.5,5.0,Hyderabad,Not Placed
+STU0349,EE,1,Male,5.5,91.4,4.2,Raipur,Placed
+STU0350,ME,8,Male,9.96,77.1,8.0,Delhi,Not Placed
+STU0351,ECE,5,Male,8.27,70.0,3.6,Bangalore,Placed
+STU0352,CSE,7,Female,8.63,90.2,4.0,Raipur,Placed
+STU0353,CSE,4,Female,5.39,83.7,4.6,Pune,Placed
+STU0354,CSE,6,Male,9.94,76.9,1.9,Raipur,Placed
+STU0355,ME,2,Male,5.52,74.7,3.1,Pune,Placed
+STU0356,AI&DS,3,Male,7.65,60.3,5.6,Pune,Not Placed
+STU0357,AI&DS,4,Male,9.6,84.6,4.1,Delhi,Placed
+STU0358,CSE,3,Male,7.95,75.4,7.7,Mumbai,Placed
+STU0359,ECE,5,Male,6.24,84.0,6.0,Mumbai,Placed
+STU0360,AI&DS,5,Male,7.59,80.4,6.2,Mumbai,Placed
+STU0361,ECE,8,Female,5.56,80.0,5.2,Hyderabad,Placed
+STU0362,EE,6,Male,6.93,93.6,3.9,Hyderabad,Placed
+STU0363,ME,2,Male,7.94,60.6,2.5,Raipur,Not Placed
+STU0364,CE,5,Female,7.12,76.1,5.5,Hyderabad,Placed
+STU0365,EE,2,Female,5.4,96.8,7.8,Delhi,Not Placed
+STU0366,ME,2,Female,8.49,89.2,6.9,Raipur,Placed
+STU0367,CSE,7,Male,7.27,84.4,3.2,Bangalore,Placed
+STU0368,CSE,1,Male,8.51,66.6,7.7,Hyderabad,Not Placed
+STU0369,ECE,6,Male,8.75,94.9,6.1,Raipur,Placed
+STU0370,EE,7,Female,7.62,70.5,7.8,Bangalore,Placed
+STU0371,ME,8,Female,5.28,94.4,2.2,Delhi,Not Placed
+STU0372,CSE,2,Male,8.7,60.1,7.0,Raipur,Placed
+STU0373,CSE,8,Female,6.91,66.0,7.5,Raipur,Not Placed
+STU0374,ECE,6,Male,7.08,88.8,2.9,Raipur,Not Placed
+STU0375,CSE,1,Male,6.12,80.6,1.3,Pune,Placed
+STU0376,ME,5,Female,6.64,82.1,1.1,Delhi,Not Placed
+STU0377,CE,5,Male,7.32,83.7,4.5,Delhi,Placed
+STU0378,ECE,1,Female,5.12,81.7,5.5,Bangalore,Placed
+STU0379,EE,1,Female,9.25,89.1,1.7,Hyderabad,Placed
+STU0380,ME,8,Male,9.86,65.7,3.0,Raipur,Placed
+STU0381,CE,7,Female,7.29,89.9,5.1,Hyderabad,Placed
+STU0382,AI&DS,7,Male,7.96,62.5,5.6,Delhi,Placed
+STU0383,EE,5,Female,9.63,75.7,6.8,Mumbai,Not Placed
+STU0384,ME,5,Male,5.37,68.1,6.5,Hyderabad,Placed
+STU0385,ECE,2,Male,7.25,72.6,1.8,Mumbai,Placed
+STU0386,ME,5,Female,6.33,64.8,2.1,Bangalore,Not Placed
+STU0387,AI&DS,1,Male,9.18,73.1,1.6,Delhi,Not Placed
+STU0388,ME,1,Female,6.3,99.6,1.2,Pune,Not Placed
+STU0389,CE,4,Male,7.31,92.2,2.0,Raipur,Placed
+STU0390,ECE,3,Male,9.12,74.9,5.4,Bangalore,Placed
+STU0391,CE,5,Male,5.11,62.6,7.3,Pune,Placed
+STU0392,CSE,6,Male,5.21,78.4,2.2,Hyderabad,Not Placed
+STU0393,AI&DS,7,Female,5.15,87.3,2.2,Delhi,Placed
+STU0394,EE,5,Female,9.42,61.4,5.3,Delhi,Not Placed
+STU0395,ME,7,Female,5.3,71.2,2.0,Delhi,Placed
+STU0396,AI&DS,1,Female,8.91,74.4,4.8,Pune,Not Placed
+STU0397,CE,6,Female,6.35,61.0,5.2,Raipur,Not Placed
+STU0398,CSE,8,Female,8.83,100.0,7.8,Raipur,Placed
+STU0399,AI&DS,4,Female,7.67,91.6,6.2,Delhi,Not Placed
+STU0400,EE,3,Male,6.18,72.7,6.2,Mumbai,Placed
+STU0401,AI&DS,6,Male,7.82,67.5,7.9,Pune,Not Placed
+STU0402,ECE,8,Male,5.45,69.3,2.5,Hyderabad,Not Placed
+STU0403,CSE,6,Male,9.03,73.6,2.2,Mumbai,Placed
+STU0404,CSE,3,Male,8.87,93.9,7.0,Raipur,Not Placed
+STU0405,AI&DS,7,Male,6.68,72.9,7.8,Bangalore,Not Placed
+STU0406,AI&DS,8,Female,5.87,98.7,5.9,Hyderabad,Not Placed
+STU0407,ECE,3,Female,6.53,87.5,1.9,Bangalore,Placed
+STU0408,AI&DS,7,Male,5.91,72.7,6.7,Hyderabad,Placed
+STU0409,AI&DS,2,Female,5.7,89.8,2.7,Mumbai,Placed
+STU0410,AI&DS,2,Female,7.23,70.6,2.7,Raipur,Not Placed
+STU0411,EE,2,Male,5.24,77.5,3.9,Delhi,Not Placed
+STU0412,ME,7,Female,7.73,64.1,4.4,Hyderabad,Placed
+STU0413,ECE,8,Male,9.0,61.3,1.1,Mumbai,Placed
+STU0414,CSE,6,Male,9.44,66.4,1.5,Raipur,Not Placed
+STU0415,CE,8,Male,7.16,86.1,5.3,Pune,Placed
+STU0416,CSE,2,Female,6.03,67.6,5.9,Bangalore,Not Placed
+STU0417,AI&DS,5,Female,6.19,62.0,5.0,Pune,Placed
+STU0418,CSE,6,Male,7.14,71.8,5.6,Hyderabad,Not Placed
+STU0419,ECE,2,Male,6.03,85.5,7.8,Pune,Placed
+STU0420,EE,7,Female,7.45,86.4,1.6,Hyderabad,Not Placed
+STU0421,ECE,6,Female,6.85,77.8,2.8,Pune,Not Placed
+STU0422,ECE,5,Male,5.76,87.9,1.7,Bangalore,Not Placed
+STU0423,CE,7,Male,7.77,93.6,6.7,Pune,Not Placed
+STU0424,CE,4,Female,6.49,75.8,7.0,Raipur,Placed
+STU0425,CSE,8,Male,9.75,66.7,2.5,Delhi,Placed
+STU0426,CSE,7,Male,9.94,77.4,8.0,Bangalore,Placed
+STU0427,CE,5,Female,9.55,96.6,1.5,Pune,Not Placed
+STU0428,CE,6,Female,7.6,96.7,1.1,Bangalore,Not Placed
+STU0429,CSE,7,Male,5.74,83.5,6.3,Raipur,Placed
+STU0430,CE,2,Female,9.34,95.2,7.1,Mumbai,Not Placed
+STU0431,AI&DS,8,Female,5.19,71.0,2.0,Hyderabad,Not Placed
+STU0432,CSE,7,Female,8.45,62.0,4.3,Mumbai,Not Placed
+STU0433,CSE,6,Female,6.55,93.7,7.0,Bangalore,Placed
+STU0434,ECE,3,Female,9.87,77.7,6.8,Mumbai,Not Placed
+STU0435,CE,2,Male,7.21,96.5,3.9,Pune,Not Placed
+STU0436,CSE,3,Male,6.56,80.3,1.9,Hyderabad,Placed
+STU0437,ECE,4,Male,9.18,70.0,4.2,Mumbai,Placed
+STU0438,EE,6,Female,7.53,85.4,1.9,Raipur,Placed
+STU0439,EE,8,Female,5.89,94.8,5.1,Mumbai,Not Placed
+STU0440,ECE,5,Male,6.43,75.5,2.1,Hyderabad,Placed
+STU0441,ECE,4,Male,6.35,76.4,1.1,Bangalore,Placed
+STU0442,ME,3,Male,8.01,60.3,2.8,Mumbai,Not Placed
+STU0443,ME,7,Female,7.29,68.7,3.1,Hyderabad,Not Placed
+STU0444,CE,2,Male,7.56,86.5,6.9,Mumbai,Not Placed
+STU0445,EE,2,Female,5.32,99.5,5.5,Mumbai,Not Placed
+STU0446,AI&DS,5,Male,5.75,90.6,7.3,Hyderabad,Not Placed
+STU0447,AI&DS,6,Male,8.61,86.2,8.0,Mumbai,Not Placed
+STU0448,ME,7,Male,7.92,99.8,6.7,Mumbai,Placed
+STU0449,AI&DS,8,Female,7.54,93.8,6.9,Hyderabad,Placed
+STU0450,EE,2,Female,5.64,70.3,6.7,Delhi,Not Placed
+STU0451,AI&DS,2,Male,6.78,89.8,3.1,Mumbai,Not Placed
+STU0452,EE,5,Female,9.26,78.8,7.1,Hyderabad,Placed
+STU0453,ME,4,Male,9.34,75.3,3.1,Raipur,Placed
+STU0454,ECE,4,Female,7.05,82.8,7.3,Pune,Placed
+STU0455,EE,3,Male,7.44,85.2,2.2,Bangalore,Placed
+STU0456,CSE,8,Female,6.05,90.9,5.0,Delhi,Not Placed
+STU0457,CSE,3,Female,8.17,76.1,7.8,Pune,Placed
+STU0458,CSE,4,Female,9.75,95.7,6.3,Hyderabad,Placed
+STU0459,CSE,1,Male,6.13,95.1,3.2,Raipur,Not Placed
+STU0460,CE,5,Male,5.33,61.8,7.6,Pune,Not Placed
+STU0461,ME,3,Female,9.98,79.6,6.3,Delhi,Not Placed
+STU0462,CSE,4,Male,8.64,65.2,6.1,Hyderabad,Placed
+STU0463,CSE,6,Male,6.88,85.6,6.4,Hyderabad,Placed
+STU0464,CE,1,Male,8.27,60.8,5.8,Pune,Not Placed
+STU0465,ME,2,Female,7.37,66.1,5.9,Bangalore,Placed
+STU0466,EE,7,Male,8.31,70.8,5.2,Delhi,Not Placed
+STU0467,CSE,2,Female,5.57,64.3,2.4,Delhi,Not Placed
+STU0468,CE,4,Female,8.52,71.8,1.3,Pune,Placed
+STU0469,AI&DS,8,Female,6.17,60.5,1.6,Raipur,Not Placed
+STU0470,ECE,2,Male,8.62,64.1,2.8,Delhi,Not Placed
+STU0471,EE,5,Female,5.25,92.5,7.1,Mumbai,Not Placed
+STU0472,AI&DS,6,Female,8.69,63.8,6.3,Raipur,Placed
+STU0473,ECE,3,Female,6.79,77.5,5.4,Bangalore,Placed
+STU0474,EE,6,Male,5.57,76.0,4.2,Pune,Not Placed
+STU0475,ME,3,Male,5.66,89.1,7.9,Delhi,Placed
+STU0476,ME,8,Female,5.91,75.2,3.5,Raipur,Placed
+STU0477,ME,8,Male,9.44,77.6,1.4,Bangalore,Not Placed
+STU0478,CSE,4,Female,7.6,87.5,5.3,Pune,Placed
+STU0479,ME,6,Female,5.74,93.1,7.2,Hyderabad,Placed
+STU0480,CSE,3,Female,9.26,94.8,1.5,Pune,Not Placed
+STU0481,ECE,6,Female,5.25,68.9,5.5,Pune,Placed
+STU0482,CSE,8,Female,9.01,77.9,7.0,Pune,Not Placed
+STU0483,CSE,8,Male,5.51,76.5,4.9,Raipur,Placed
+STU0484,CE,5,Male,8.27,78.2,3.4,Raipur,Placed
+STU0485,ME,6,Female,8.58,74.5,4.2,Raipur,Placed
+STU0486,CSE,6,Female,9.15,98.6,3.0,Hyderabad,Not Placed
+STU0487,AI&DS,2,Male,9.48,79.7,6.8,Bangalore,Not Placed
+STU0488,CSE,5,Male,5.94,97.2,3.8,Pune,Placed
+STU0489,AI&DS,6,Male,8.79,61.9,5.4,Bangalore,Placed
+STU0490,ME,8,Male,9.82,60.2,6.2,Hyderabad,Not Placed
+STU0491,CE,8,Male,8.46,66.9,6.7,Raipur,Not Placed
+STU0492,AI&DS,6,Female,7.09,84.4,5.8,Delhi,Not Placed
+STU0493,ME,6,Female,7.26,65.3,3.9,Bangalore,Not Placed
+STU0494,AI&DS,6,Male,6.0,85.0,3.0,Mumbai,Placed
+STU0495,AI&DS,3,Female,8.55,90.4,4.9,Hyderabad,Not Placed
+STU0496,AI&DS,5,Female,9.04,80.9,1.2,Delhi,Placed
+STU0497,AI&DS,1,Male,6.33,91.4,7.9,Bangalore,Not Placed
+STU0498,ECE,1,Female,6.02,81.6,3.5,Pune,Placed
+STU0499,CE,4,Female,6.19,91.4,6.6,Mumbai,Placed
+STU0500,ME,7,Female,9.78,99.0,3.2,Hyderabad,Placed
+STU0501,CSE,5,Male,8.1,91.2,7.1,Delhi,Not Placed
+STU0502,CE,4,Male,6.47,67.1,5.8,Delhi,Placed
+STU0503,AI&DS,2,Female,5.2,71.2,2.8,Delhi,Not Placed
+STU0504,CSE,6,Female,8.55,66.2,2.1,Mumbai,Placed
+STU0505,AI&DS,5,Female,8.95,82.0,1.5,Bangalore,Not Placed
+STU0506,CE,4,Male,7.6,91.5,2.1,Hyderabad,Not Placed
+STU0507,CSE,6,Male,9.42,86.5,3.3,Mumbai,Placed
+STU0508,CE,8,Male,5.57,73.8,2.7,Bangalore,Placed
+STU0509,CSE,6,Female,9.58,97.8,3.7,Hyderabad,Not Placed
+STU0510,CSE,6,Female,7.43,71.9,5.6,Mumbai,Placed
+STU0511,CSE,3,Male,8.13,68.4,5.4,Delhi,Not Placed
+STU0512,CSE,4,Female,8.23,97.6,6.2,Delhi,Placed
+STU0513,ME,6,Male,5.44,62.2,6.6,Hyderabad,Placed
+STU0514,CE,4,Female,7.04,78.0,3.8,Mumbai,Placed
+STU0515,ME,2,Male,8.21,84.7,6.3,Hyderabad,Placed
+STU0516,AI&DS,2,Female,9.64,64.2,6.5,Mumbai,Placed
+STU0517,EE,8,Female,6.98,86.4,4.3,Hyderabad,Placed
+STU0518,ECE,7,Female,9.8,65.8,5.7,Bangalore,Not Placed
+STU0519,CSE,3,Male,5.21,82.9,3.8,Hyderabad,Placed
+STU0520,EE,4,Female,6.06,96.2,7.0,Delhi,Placed
+STU0521,ECE,4,Female,5.97,67.3,6.6,Raipur,Not Placed
+STU0522,AI&DS,2,Female,8.36,70.0,2.4,Hyderabad,Not Placed
+STU0523,EE,6,Male,8.36,69.4,3.0,Raipur,Placed
+STU0524,EE,8,Female,6.64,86.4,5.9,Delhi,Not Placed
+STU0525,EE,7,Male,5.02,69.8,2.6,Bangalore,Not Placed
+STU0526,EE,6,Male,8.4,73.3,4.4,Pune,Not Placed
+STU0527,EE,8,Male,5.88,84.3,6.9,Delhi,Placed
+STU0528,EE,2,Male,9.46,94.0,5.4,Hyderabad,Not Placed
+STU0529,CE,4,Male,7.76,81.7,8.0,Pune,Placed
+STU0530,EE,7,Male,9.46,83.6,7.0,Delhi,Not Placed
+STU0531,CE,2,Female,6.82,60.4,2.7,Hyderabad,Placed
+STU0532,CE,3,Female,5.8,82.7,5.0,Delhi,Not Placed
+STU0533,EE,1,Male,8.81,69.3,2.9,Delhi,Placed
+STU0534,AI&DS,4,Female,6.94,96.7,7.2,Raipur,Not Placed
+STU0535,CSE,5,Female,7.89,82.8,3.6,Pune,Not Placed
+STU0536,CE,2,Female,6.88,96.3,4.6,Mumbai,Not Placed
+STU0537,ME,8,Male,7.51,65.6,2.2,Raipur,Not Placed
+STU0538,ECE,3,Male,5.79,84.1,6.7,Bangalore,Placed
+STU0539,ME,6,Male,7.41,79.2,2.5,Delhi,Not Placed
+STU0540,CSE,4,Male,5.64,83.7,1.9,Hyderabad,Placed
+STU0541,CE,3,Male,5.83,96.9,4.6,Pune,Placed
+STU0542,AI&DS,5,Male,6.08,84.3,4.3,Pune,Placed
+STU0543,ECE,7,Male,8.97,92.8,2.3,Bangalore,Not Placed
+STU0544,ECE,6,Female,7.98,62.8,3.6,Delhi,Placed
+STU0545,CSE,4,Female,9.13,84.2,2.2,Hyderabad,Placed
+STU0546,CE,2,Male,7.41,65.2,5.2,Raipur,Not Placed
+STU0547,CE,7,Female,9.37,87.9,4.0,Pune,Not Placed
+STU0548,EE,2,Female,5.67,79.1,2.6,Raipur,Not Placed
+STU0549,CE,7,Female,5.95,88.4,6.5,Hyderabad,Placed
+STU0550,CE,1,Female,8.27,87.5,3.2,Mumbai,Placed
+STU0551,ECE,7,Female,6.31,81.4,5.0,Hyderabad,Not Placed
+STU0552,AI&DS,7,Male,7.07,91.4,4.4,Mumbai,Not Placed
+STU0553,EE,5,Female,8.87,75.9,2.0,Bangalore,Placed
+STU0554,AI&DS,4,Female,8.92,98.0,1.7,Hyderabad,Not Placed
+STU0555,EE,1,Male,6.95,85.4,6.6,Delhi,Not Placed
+STU0556,CE,7,Male,5.32,68.9,1.6,Raipur,Not Placed
+STU0557,ME,5,Male,9.73,92.8,5.5,Pune,Placed
+STU0558,ECE,5,Male,5.17,84.0,4.6,Delhi,Placed
+STU0559,AI&DS,1,Female,6.2,60.0,2.1,Mumbai,Not Placed
+STU0560,EE,7,Female,7.93,80.7,6.2,Raipur,Placed
+STU0561,CE,5,Female,6.74,92.6,2.6,Delhi,Not Placed
+STU0562,ME,1,Female,5.88,80.2,4.9,Hyderabad,Not Placed
+STU0563,EE,2,Female,9.38,92.5,5.0,Bangalore,Not Placed
+STU0564,ME,8,Male,8.79,98.4,4.2,Pune,Placed
+STU0565,ME,2,Female,5.34,85.3,8.0,Bangalore,Placed
+STU0566,EE,7,Female,7.58,60.4,6.8,Delhi,Not Placed
+STU0567,CSE,7,Female,5.38,97.3,4.3,Mumbai,Placed
+STU0568,CE,5,Male,9.74,87.3,7.4,Pune,Placed
+STU0569,ECE,4,Female,6.03,68.1,2.7,Hyderabad,Not Placed
+STU0570,ECE,2,Male,9.6,87.0,5.6,Hyderabad,Placed
+STU0571,CE,1,Female,6.86,72.6,7.3,Hyderabad,Not Placed
+STU0572,ME,3,Female,6.99,90.0,1.9,Hyderabad,Not Placed
+STU0573,ME,1,Female,6.97,87.5,2.2,Raipur,Not Placed
+STU0574,EE,1,Male,8.37,75.2,1.7,Mumbai,Not Placed
+STU0575,ECE,5,Male,6.35,98.3,3.4,Delhi,Not Placed
+STU0576,ME,4,Female,8.5,74.9,7.0,Mumbai,Not Placed
+STU0577,ECE,3,Male,9.07,88.8,6.6,Hyderabad,Not Placed
+STU0578,ME,4,Male,9.0,89.5,4.3,Raipur,Placed
+STU0579,ME,8,Male,9.98,94.0,4.6,Bangalore,Not Placed
+STU0580,ME,5,Female,7.81,82.7,3.8,Bangalore,Placed
+STU0581,CSE,4,Female,7.38,85.2,4.1,Mumbai,Not Placed
+STU0582,EE,6,Female,6.72,76.5,3.5,Bangalore,Placed
+STU0583,CE,3,Female,6.78,86.9,4.4,Bangalore,Not Placed
+STU0584,CSE,7,Female,7.32,98.3,7.1,Bangalore,Not Placed
+STU0585,ME,7,Male,5.4,73.7,3.2,Bangalore,Not Placed
+STU0586,AI&DS,5,Female,6.36,77.8,7.0,Mumbai,Not Placed
+STU0587,ME,3,Male,9.27,65.0,2.6,Mumbai,Placed
+STU0588,ECE,3,Female,5.52,62.6,7.2,Hyderabad,Placed
+STU0589,CSE,7,Male,5.52,84.7,1.6,Pune,Not Placed
+STU0590,ECE,4,Female,7.22,65.1,4.7,Delhi,Placed
+STU0591,CSE,6,Female,9.32,78.7,7.1,Mumbai,Not Placed
+STU0592,ECE,3,Female,8.16,85.4,4.9,Hyderabad,Not Placed
+STU0593,EE,8,Male,9.02,77.7,3.6,Mumbai,Placed
+STU0594,EE,1,Male,7.62,90.3,2.0,Mumbai,Not Placed
+STU0595,CE,1,Female,9.73,79.1,1.1,Pune,Not Placed
+STU0596,CE,4,Male,7.74,67.5,7.2,Pune,Not Placed
+STU0597,ECE,3,Female,9.14,68.8,1.6,Bangalore,Placed
+STU0598,CE,5,Female,8.24,81.3,2.9,Delhi,Placed
+STU0599,ECE,3,Female,5.55,78.2,4.2,Bangalore,Not Placed
+STU0600,ECE,6,Male,5.76,98.8,1.2,Raipur,Not Placed
+STU0601,EE,3,Female,8.64,69.3,2.1,Pune,Placed
+STU0602,EE,7,Female,8.93,79.9,3.6,Bangalore,Placed
+STU0603,EE,2,Male,5.28,91.0,1.5,Pune,Placed
+STU0604,ECE,5,Female,9.14,64.9,6.4,Delhi,Not Placed
+STU0605,ME,4,Male,6.0,89.4,1.7,Bangalore,Placed
+STU0606,ME,7,Female,9.68,66.3,6.1,Bangalore,Placed
+STU0607,EE,8,Female,5.99,95.5,7.0,Delhi,Placed
+STU0608,ECE,7,Female,5.08,91.8,5.1,Pune,Placed
+STU0609,CSE,1,Female,8.44,66.2,6.4,Delhi,Placed
+STU0610,ME,2,Female,9.65,99.9,5.4,Raipur,Not Placed
+STU0611,AI&DS,3,Male,5.63,69.3,7.9,Bangalore,Not Placed
+STU0612,ME,4,Male,8.45,74.3,1.9,Raipur,Not Placed
+STU0613,AI&DS,8,Female,7.71,79.6,5.0,Hyderabad,Not Placed
+STU0614,EE,8,Female,9.34,83.9,7.0,Delhi,Placed
+STU0615,CE,3,Female,6.48,70.5,3.6,Raipur,Not Placed
+STU0616,AI&DS,3,Male,8.1,74.6,5.3,Mumbai,Placed
+STU0617,AI&DS,7,Male,7.62,79.9,4.9,Hyderabad,Not Placed
+STU0618,EE,7,Female,5.55,80.9,1.5,Delhi,Placed
+STU0619,CSE,4,Male,7.43,64.0,5.0,Pune,Not Placed
+STU0620,CE,5,Male,6.83,84.2,1.5,Delhi,Not Placed
+STU0621,CSE,8,Male,6.8,89.7,7.2,Mumbai,Placed
+STU0622,CE,5,Male,8.67,93.4,1.5,Delhi,Placed
+STU0623,CSE,4,Female,5.95,81.0,2.7,Bangalore,Placed
+STU0624,CE,7,Male,8.83,83.1,5.7,Bangalore,Not Placed
+STU0625,CSE,3,Male,7.75,80.2,5.6,Hyderabad,Not Placed
+STU0626,EE,6,Female,9.22,76.5,5.4,Bangalore,Not Placed
+STU0627,CE,4,Male,6.88,82.0,6.2,Mumbai,Not Placed
+STU0628,ME,7,Male,8.63,99.3,5.2,Hyderabad,Placed
+STU0629,EE,1,Female,9.92,68.6,3.2,Bangalore,Not Placed
+STU0630,CE,3,Male,5.19,74.2,2.0,Mumbai,Placed
+STU0631,ECE,5,Female,5.46,76.0,7.4,Bangalore,Placed
+STU0632,AI&DS,6,Female,5.86,93.0,5.8,Hyderabad,Placed
+STU0633,CE,5,Male,8.65,83.1,1.5,Raipur,Not Placed
+STU0634,EE,7,Female,9.65,64.8,6.4,Bangalore,Placed
+STU0635,AI&DS,7,Male,6.52,61.6,4.8,Delhi,Not Placed
+STU0636,CE,4,Male,5.25,89.3,3.8,Pune,Placed
+STU0637,ECE,7,Female,8.93,65.9,3.4,Pune,Placed
+STU0638,CE,7,Female,5.43,80.1,6.4,Delhi,Placed
+STU0639,ME,4,Female,6.98,82.9,4.9,Bangalore,Placed
+STU0640,ECE,2,Female,8.88,72.9,7.5,Raipur,Placed
+STU0641,AI&DS,7,Female,6.83,67.6,3.4,Bangalore,Placed
+STU0642,EE,3,Female,8.08,99.6,4.1,Delhi,Not Placed
+STU0643,CSE,4,Male,8.43,66.2,6.1,Raipur,Placed
+STU0644,AI&DS,1,Male,9.74,97.1,7.1,Mumbai,Placed
+STU0645,EE,2,Female,7.25,60.9,2.5,Hyderabad,Placed
+STU0646,ECE,5,Female,8.12,99.7,5.9,Bangalore,Placed
+STU0647,ME,1,Female,5.85,71.4,6.5,Hyderabad,Not Placed
+STU0648,CSE,8,Male,5.33,86.4,5.6,Bangalore,Not Placed
+STU0649,CSE,1,Female,9.34,86.0,2.6,Pune,Placed
+STU0650,EE,8,Male,5.93,80.0,4.2,Bangalore,Placed
+STU0651,CSE,4,Female,6.67,75.7,2.1,Mumbai,Not Placed
+STU0652,EE,5,Male,9.98,99.1,2.9,Raipur,Not Placed
+STU0653,ME,1,Female,6.13,73.7,3.7,Delhi,Placed
+STU0654,AI&DS,7,Male,7.09,82.9,4.0,Mumbai,Not Placed
+STU0655,ME,3,Male,8.26,83.2,5.8,Delhi,Placed
+STU0656,EE,3,Female,9.98,99.0,2.0,Hyderabad,Placed
+STU0657,EE,2,Male,5.92,93.6,2.0,Raipur,Not Placed
+STU0658,ME,7,Female,7.22,97.4,7.3,Bangalore,Not Placed
+STU0659,ECE,4,Male,5.66,61.0,7.9,Hyderabad,Not Placed
+STU0660,CE,4,Male,6.15,61.0,1.6,Pune,Placed
+STU0661,CE,8,Female,5.92,75.5,4.3,Delhi,Placed
+STU0662,ECE,1,Female,8.82,60.6,2.9,Pune,Placed
+STU0663,AI&DS,4,Male,5.33,97.1,7.9,Hyderabad,Not Placed
+STU0664,AI&DS,6,Female,9.44,77.1,6.4,Hyderabad,Not Placed
+STU0665,AI&DS,6,Female,8.06,89.7,5.2,Hyderabad,Placed
+STU0666,CE,2,Female,7.28,95.1,7.1,Delhi,Not Placed
+STU0667,AI&DS,1,Female,7.58,85.2,1.3,Mumbai,Not Placed
+STU0668,ME,5,Female,7.31,76.9,5.3,Raipur,Placed
+STU0669,ME,8,Male,8.61,64.5,6.5,Bangalore,Placed
+STU0670,ME,7,Female,7.25,67.2,5.1,Bangalore,Placed
+STU0671,ME,2,Female,6.62,85.9,6.0,Delhi,Placed
+STU0672,CSE,2,Female,8.17,63.4,6.0,Bangalore,Placed
+STU0673,ME,7,Male,8.84,96.5,5.0,Bangalore,Placed
+STU0674,ECE,3,Male,8.85,62.1,3.2,Bangalore,Not Placed
+STU0675,EE,3,Male,9.49,98.4,1.0,Mumbai,Placed
+STU0676,ME,8,Female,7.72,60.2,7.2,Delhi,Placed
+STU0677,CE,8,Female,7.05,63.2,5.2,Delhi,Not Placed
+STU0678,CE,4,Male,5.92,62.2,3.4,Delhi,Placed
+STU0679,AI&DS,5,Female,9.6,62.0,3.9,Delhi,Placed
+STU0680,AI&DS,5,Male,9.83,90.0,3.5,Raipur,Placed
+STU0681,EE,6,Female,9.49,92.8,6.3,Hyderabad,Placed
+STU0682,EE,8,Male,5.61,94.4,3.3,Pune,Placed
+STU0683,AI&DS,4,Male,5.55,89.2,5.4,Raipur,Not Placed
+STU0684,AI&DS,5,Female,8.04,72.7,4.7,Hyderabad,Not Placed
+STU0685,ECE,8,Female,7.46,67.2,5.3,Bangalore,Not Placed
+STU0686,ECE,1,Male,5.12,85.0,1.8,Delhi,Not Placed
+STU0687,ME,1,Female,6.75,92.2,2.5,Bangalore,Placed
+STU0688,AI&DS,5,Female,8.95,72.3,4.5,Mumbai,Placed
+STU0689,CSE,6,Female,6.98,82.8,7.7,Delhi,Placed
+STU0690,EE,6,Female,9.58,91.9,5.5,Pune,Placed
+STU0691,AI&DS,8,Female,7.31,92.6,7.5,Raipur,Not Placed
+STU0692,CE,6,Male,6.04,87.4,6.6,Mumbai,Placed
+STU0693,ECE,5,Male,6.7,75.0,4.7,Delhi,Not Placed
+STU0694,ECE,2,Female,8.53,72.6,1.2,Pune,Placed
+STU0695,ME,4,Female,7.26,98.0,2.5,Mumbai,Placed
+STU0696,CSE,6,Male,8.89,96.5,4.1,Raipur,Not Placed
+STU0697,CE,3,Male,6.7,79.3,7.1,Mumbai,Not Placed
+STU0698,ECE,2,Male,6.03,61.5,3.7,Hyderabad,Placed
+STU0699,CSE,5,Male,8.44,83.8,1.6,Pune,Placed
+STU0700,CSE,5,Male,7.89,72.5,7.2,Mumbai,Placed
+STU0701,ECE,5,Female,7.66,90.9,5.7,Mumbai,Placed
+STU0702,ECE,5,Male,5.08,84.9,4.6,Delhi,Not Placed
+STU0703,CE,6,Female,5.71,88.2,3.0,Delhi,Placed
+STU0704,CSE,5,Female,7.7,62.0,1.2,Bangalore,Placed
+STU0705,CSE,7,Male,5.43,75.7,5.9,Hyderabad,Not Placed
+STU0706,CE,6,Female,6.66,67.9,6.3,Hyderabad,Placed
+STU0707,ME,3,Male,9.06,96.8,4.3,Pune,Not Placed
+STU0708,AI&DS,8,Female,6.16,69.0,7.0,Hyderabad,Not Placed
+STU0709,EE,7,Male,8.5,86.6,6.5,Mumbai,Not Placed
+STU0710,ME,1,Male,7.38,74.1,4.2,Delhi,Not Placed
+STU0711,EE,3,Male,7.03,88.6,1.7,Hyderabad,Placed
+STU0712,EE,8,Female,7.95,69.5,2.7,Delhi,Not Placed
+STU0713,ME,2,Female,6.04,87.8,4.0,Pune,Not Placed
+STU0714,CE,4,Male,8.31,63.1,7.5,Hyderabad,Not Placed
+STU0715,CSE,8,Female,7.78,92.9,2.2,Pune,Placed
+STU0716,CE,2,Female,6.64,85.8,1.4,Delhi,Placed
+STU0717,CE,1,Male,8.3,78.1,3.0,Hyderabad,Not Placed
+STU0718,ECE,4,Female,6.5,91.8,5.8,Pune,Not Placed
+STU0719,CSE,1,Female,9.24,94.1,1.4,Hyderabad,Placed
+STU0720,CSE,6,Male,9.31,94.6,2.6,Bangalore,Not Placed
+STU0721,AI&DS,6,Female,7.03,77.4,2.5,Delhi,Not Placed
+STU0722,ECE,4,Female,9.22,74.4,3.9,Mumbai,Placed
+STU0723,ECE,1,Male,8.24,65.8,7.2,Bangalore,Not Placed
+STU0724,ECE,2,Male,8.21,76.6,4.2,Bangalore,Not Placed
+STU0725,CE,3,Female,7.55,82.1,4.2,Mumbai,Placed
+STU0726,ECE,7,Male,7.89,93.9,2.7,Hyderabad,Not Placed
+STU0727,ME,6,Male,9.89,82.7,5.9,Raipur,Not Placed
+STU0728,AI&DS,2,Male,8.65,81.1,7.0,Mumbai,Not Placed
+STU0729,CE,2,Male,6.23,85.2,5.6,Bangalore,Placed
+STU0730,AI&DS,5,Male,9.52,81.4,1.1,Pune,Not Placed
+STU0731,CE,6,Female,6.76,99.1,3.1,Delhi,Placed
+STU0732,AI&DS,5,Female,5.31,78.9,2.2,Raipur,Not Placed
+STU0733,AI&DS,1,Female,7.42,65.1,1.5,Mumbai,Not Placed
+STU0734,ECE,5,Female,9.29,60.6,1.8,Delhi,Placed
+STU0735,AI&DS,8,Female,9.04,70.5,5.9,Pune,Placed
+STU0736,CE,1,Female,9.92,98.7,5.2,Delhi,Not Placed
+STU0737,ME,7,Male,8.3,89.0,2.2,Hyderabad,Not Placed
+STU0738,CSE,5,Male,5.26,78.6,4.3,Pune,Placed
+STU0739,ME,7,Female,6.31,81.2,4.0,Mumbai,Not Placed
+STU0740,ME,6,Male,5.49,81.3,3.5,Pune,Not Placed
+STU0741,EE,5,Female,9.01,70.2,5.1,Pune,Placed
+STU0742,AI&DS,4,Female,8.39,99.7,3.2,Raipur,Placed
+STU0743,CSE,1,Female,5.49,64.2,4.1,Delhi,Not Placed
+STU0744,EE,4,Male,5.12,63.7,7.6,Bangalore,Placed
+STU0745,CE,2,Male,5.43,84.2,3.6,Bangalore,Placed
+STU0746,CSE,3,Female,6.47,86.4,1.5,Pune,Not Placed
+STU0747,ME,6,Female,5.81,63.0,6.4,Pune,Not Placed
+STU0748,EE,1,Female,9.78,70.6,4.1,Pune,Placed
+STU0749,CE,7,Male,8.23,64.3,4.8,Pune,Placed
+STU0750,CE,2,Female,8.58,64.1,1.5,Hyderabad,Not Placed
+STU0751,ME,1,Female,5.74,85.6,7.5,Bangalore,Not Placed
+STU0752,EE,3,Female,9.52,83.0,4.6,Pune,Not Placed
+STU0753,ME,7,Male,7.7,60.1,7.7,Pune,Placed
+STU0754,CE,6,Female,8.41,76.0,5.4,Bangalore,Placed
+STU0755,EE,6,Male,9.21,90.4,3.0,Delhi,Placed
+STU0756,CE,1,Female,8.3,72.0,3.7,Raipur,Not Placed
+STU0757,ME,2,Female,8.68,65.6,2.4,Bangalore,Placed
+STU0758,ME,7,Male,8.96,85.7,4.5,Pune,Placed
+STU0759,CSE,6,Male,6.69,88.8,3.8,Delhi,Not Placed
+STU0760,AI&DS,3,Male,9.62,61.5,2.0,Bangalore,Placed
+STU0761,ME,1,Male,8.51,65.2,2.2,Raipur,Not Placed
+STU0762,CSE,8,Male,9.18,62.6,6.7,Raipur,Not Placed
+STU0763,CE,4,Male,9.02,77.0,6.7,Bangalore,Not Placed
+STU0764,EE,2,Male,6.61,98.6,2.5,Raipur,Placed
+STU0765,EE,2,Male,6.37,90.3,2.2,Mumbai,Placed
+STU0766,ME,4,Male,5.67,91.6,5.4,Pune,Placed
+STU0767,CSE,8,Male,5.03,67.2,1.6,Bangalore,Not Placed
+STU0768,ME,8,Male,6.03,85.6,4.7,Pune,Placed
+STU0769,ECE,1,Male,8.59,84.5,1.6,Mumbai,Not Placed
+STU0770,ME,1,Male,5.96,99.5,7.8,Hyderabad,Not Placed
+STU0771,CE,4,Female,8.85,86.4,2.9,Delhi,Placed
+STU0772,ECE,8,Female,5.88,86.8,1.3,Bangalore,Not Placed
+STU0773,EE,4,Female,6.26,84.7,7.2,Pune,Placed
+STU0774,CSE,1,Male,5.79,61.2,4.6,Raipur,Placed
+STU0775,AI&DS,8,Female,7.1,89.9,7.3,Delhi,Placed
+STU0776,EE,4,Male,6.19,76.5,2.4,Delhi,Placed
+STU0777,ME,8,Male,9.45,65.8,7.5,Pune,Placed
+STU0778,ME,6,Male,7.29,67.8,3.5,Mumbai,Placed
+STU0779,EE,3,Male,8.46,62.4,2.0,Pune,Not Placed
+STU0780,ME,3,Female,6.1,71.8,2.1,Bangalore,Placed
+STU0781,CE,4,Male,7.06,80.9,7.0,Delhi,Not Placed
+STU0782,ME,5,Male,8.65,89.4,2.7,Mumbai,Not Placed
+STU0783,CE,4,Male,9.57,95.9,3.9,Raipur,Placed
+STU0784,ME,1,Female,7.66,79.2,6.6,Raipur,Not Placed
+STU0785,ME,4,Male,7.79,60.5,6.1,Delhi,Placed
+STU0786,EE,5,Male,8.24,63.6,4.4,Mumbai,Placed
+STU0787,AI&DS,8,Male,9.88,78.6,2.0,Bangalore,Not Placed
+STU0788,ECE,6,Female,8.52,60.1,5.4,Pune,Not Placed
+STU0789,CE,1,Female,7.13,70.8,7.6,Hyderabad,Placed
+STU0790,AI&DS,2,Female,8.68,62.2,7.6,Bangalore,Not Placed
+STU0791,CSE,2,Female,6.83,84.8,3.6,Delhi,Placed
+STU0792,CE,4,Male,9.91,69.5,1.8,Pune,Placed
+STU0793,AI&DS,4,Female,6.76,70.7,5.8,Mumbai,Placed
+STU0794,CSE,6,Female,7.26,80.1,6.8,Pune,Not Placed
+STU0795,ME,6,Male,5.94,95.4,1.6,Pune,Placed
+STU0796,EE,2,Male,5.82,64.5,2.0,Delhi,Placed
+STU0797,CE,1,Female,7.08,87.3,7.5,Pune,Not Placed
+STU0798,ME,8,Male,6.46,62.5,7.1,Delhi,Not Placed
+STU0799,ME,6,Female,7.43,86.6,4.7,Hyderabad,Not Placed
+STU0800,ME,5,Male,9.49,72.3,6.5,Delhi,Not Placed
+STU0801,EE,5,Male,5.74,71.4,7.7,Hyderabad,Placed
+STU0802,AI&DS,5,Male,9.87,93.6,5.9,Bangalore,Placed
+STU0803,ECE,4,Male,5.21,72.7,1.9,Mumbai,Not Placed
+STU0804,ECE,4,Male,8.33,99.1,2.0,Pune,Placed
+STU0805,CE,5,Male,9.6,76.2,4.5,Delhi,Not Placed
+STU0806,EE,3,Male,9.85,81.8,4.6,Bangalore,Not Placed
+STU0807,ME,5,Male,9.0,89.1,7.5,Mumbai,Placed
+STU0808,AI&DS,8,Male,5.7,82.0,3.2,Pune,Placed
+STU0809,ME,6,Male,6.63,84.3,2.4,Hyderabad,Placed
+STU0810,EE,4,Male,5.42,94.0,5.7,Raipur,Not Placed
+STU0811,ECE,8,Female,8.02,80.5,1.4,Bangalore,Not Placed
+STU0812,ME,3,Female,6.85,74.9,3.0,Mumbai,Not Placed
+STU0813,ME,2,Male,8.64,77.8,7.9,Pune,Not Placed
+STU0814,ECE,7,Female,5.7,83.5,1.6,Delhi,Not Placed
+STU0815,ME,6,Male,9.67,83.6,3.6,Raipur,Not Placed
+STU0816,AI&DS,5,Female,5.87,78.5,5.0,Delhi,Placed
+STU0817,ECE,7,Female,7.77,61.7,6.8,Hyderabad,Not Placed
+STU0818,ME,8,Male,5.13,60.1,2.8,Bangalore,Not Placed
+STU0819,CSE,5,Female,5.9,96.3,5.5,Raipur,Placed
+STU0820,EE,8,Male,7.99,74.5,4.4,Pune,Not Placed
+STU0821,AI&DS,8,Male,6.87,89.3,1.1,Mumbai,Placed
+STU0822,CE,1,Male,6.6,95.1,1.9,Delhi,Placed
+STU0823,EE,6,Female,8.18,98.2,1.3,Mumbai,Placed
+STU0824,CE,4,Male,8.82,84.0,2.2,Mumbai,Not Placed
+STU0825,AI&DS,5,Female,8.43,87.5,1.7,Hyderabad,Not Placed
+STU0826,ECE,1,Male,7.59,74.9,4.4,Mumbai,Placed
+STU0827,CSE,4,Male,7.52,93.3,6.6,Hyderabad,Placed
+STU0828,ME,8,Male,5.58,65.2,1.1,Mumbai,Not Placed
+STU0829,AI&DS,6,Male,9.09,95.6,5.2,Mumbai,Placed
+STU0830,AI&DS,5,Male,8.72,64.7,1.9,Bangalore,Placed
+STU0831,AI&DS,4,Female,5.63,65.2,1.6,Bangalore,Placed
+STU0832,CSE,1,Female,8.79,61.7,1.8,Bangalore,Placed
+STU0833,ME,2,Female,5.22,72.1,1.1,Raipur,Placed
+STU0834,CE,4,Male,5.92,74.1,1.6,Bangalore,Not Placed
+STU0835,CE,6,Female,5.8,80.0,6.1,Delhi,Placed
+STU0836,CSE,1,Male,8.58,98.6,2.2,Hyderabad,Placed
+STU0837,AI&DS,2,Male,9.6,94.1,4.3,Bangalore,Placed
+STU0838,ME,2,Male,9.17,99.3,4.0,Hyderabad,Placed
+STU0839,ME,2,Female,5.62,64.4,2.0,Mumbai,Not Placed
+STU0840,CE,1,Male,6.64,64.6,3.0,Hyderabad,Not Placed
+STU0841,AI&DS,8,Male,7.77,71.6,7.0,Delhi,Placed
+STU0842,ME,6,Male,5.06,87.0,5.7,Pune,Not Placed
+STU0843,CE,2,Male,5.72,76.0,5.1,Raipur,Placed
+STU0844,CSE,6,Male,6.69,83.8,7.9,Raipur,Placed
+STU0845,ME,8,Female,8.82,90.6,5.2,Bangalore,Not Placed
+STU0846,EE,8,Female,9.94,80.5,2.0,Pune,Placed
+STU0847,CSE,5,Female,7.49,85.1,1.9,Raipur,Placed
+STU0848,CSE,8,Male,9.86,75.3,5.8,Delhi,Not Placed
+STU0849,CE,2,Male,8.31,80.8,4.4,Pune,Placed
+STU0850,EE,8,Female,7.52,81.7,6.7,Hyderabad,Placed
+STU0851,CSE,7,Male,6.92,72.6,3.6,Pune,Placed
+STU0852,CSE,3,Female,9.42,66.6,4.0,Mumbai,Not Placed
+STU0853,ME,2,Female,8.3,87.4,5.0,Pune,Placed
+STU0854,CE,1,Female,6.32,83.6,3.6,Bangalore,Not Placed
+STU0855,EE,6,Male,5.14,61.8,6.9,Mumbai,Placed
+STU0856,AI&DS,6,Female,5.49,73.8,3.5,Mumbai,Placed
+STU0857,AI&DS,4,Male,6.17,72.5,1.6,Bangalore,Placed
+STU0858,EE,2,Female,5.85,81.5,1.3,Bangalore,Not Placed
+STU0859,CE,7,Female,5.1,78.8,1.2,Mumbai,Not Placed
+STU0860,CE,7,Female,7.86,92.3,1.7,Bangalore,Placed
+STU0861,EE,8,Female,5.83,72.0,7.8,Delhi,Not Placed
+STU0862,AI&DS,2,Male,6.44,61.9,8.0,Pune,Placed
+STU0863,CE,2,Male,7.96,70.9,5.0,Hyderabad,Not Placed
+STU0864,ME,4,Female,8.98,86.1,3.1,Mumbai,Not Placed
+STU0865,AI&DS,6,Male,7.07,70.1,4.6,Bangalore,Placed
+STU0866,CSE,3,Female,6.06,98.5,6.2,Pune,Not Placed
+STU0867,AI&DS,7,Male,7.61,74.6,2.0,Delhi,Not Placed
+STU0868,ME,7,Female,9.3,96.4,5.4,Pune,Not Placed
+STU0869,EE,3,Female,8.43,69.4,2.7,Delhi,Placed
+STU0870,CSE,4,Female,7.32,82.4,4.1,Bangalore,Placed
+STU0871,ECE,3,Female,5.68,70.3,6.6,Bangalore,Placed
+STU0872,AI&DS,1,Female,8.91,62.2,7.3,Mumbai,Not Placed
+STU0873,CSE,7,Female,8.36,95.4,3.8,Bangalore,Placed
+STU0874,ECE,2,Male,7.61,93.2,7.6,Hyderabad,Not Placed
+STU0875,ME,2,Male,8.0,90.9,3.2,Hyderabad,Not Placed
+STU0876,AI&DS,4,Female,6.09,64.3,2.5,Mumbai,Not Placed
+STU0877,ME,5,Male,7.45,75.0,7.6,Mumbai,Not Placed
+STU0878,ME,4,Female,9.4,97.5,3.5,Bangalore,Not Placed
+STU0879,EE,1,Male,9.21,86.5,7.6,Bangalore,Placed
+STU0880,EE,7,Female,8.19,88.0,7.3,Bangalore,Placed
+STU0881,CE,4,Female,6.94,96.4,3.8,Mumbai,Not Placed
+STU0882,CSE,4,Female,6.05,95.6,7.4,Bangalore,Not Placed
+STU0883,AI&DS,7,Male,6.37,63.2,6.5,Pune,Not Placed
+STU0884,AI&DS,7,Female,8.59,95.1,6.7,Delhi,Not Placed
+STU0885,CE,2,Female,7.1,89.2,4.8,Mumbai,Not Placed
+STU0886,AI&DS,1,Male,8.21,67.3,4.1,Bangalore,Placed
+STU0887,CSE,7,Male,8.14,72.5,1.6,Delhi,Placed
+STU0888,CE,3,Female,8.96,72.8,4.3,Bangalore,Placed
+STU0889,EE,3,Female,9.0,67.9,3.9,Delhi,Not Placed
+STU0890,ME,4,Male,9.74,96.9,5.5,Bangalore,Placed
+STU0891,CSE,8,Male,6.31,94.1,1.3,Hyderabad,Not Placed
+STU0892,CE,5,Male,5.45,74.7,7.6,Raipur,Placed
+STU0893,AI&DS,7,Female,9.14,79.8,2.6,Delhi,Placed
+STU0894,EE,5,Female,6.91,77.3,2.4,Delhi,Not Placed
+STU0895,AI&DS,4,Female,5.9,91.7,1.2,Mumbai,Placed
+STU0896,CE,8,Male,6.85,87.4,4.2,Raipur,Not Placed
+STU0897,ECE,6,Female,8.43,88.5,6.0,Bangalore,Not Placed
+STU0898,CSE,2,Male,5.26,97.2,4.3,Mumbai,Placed
+STU0899,CSE,5,Female,6.51,75.8,3.6,Hyderabad,Placed
+STU0900,CE,3,Female,5.85,79.7,3.4,Pune,Placed
+STU0901,CSE,6,Female,5.71,64.7,1.3,Delhi,Not Placed
+STU0902,EE,6,Female,6.41,95.1,5.3,Mumbai,Not Placed
+STU0903,ME,3,Female,8.68,79.7,7.7,Hyderabad,Not Placed
+STU0904,CSE,4,Male,5.27,67.3,4.3,Delhi,Not Placed
+STU0905,ME,2,Female,5.2,74.3,6.0,Pune,Not Placed
+STU0906,ME,2,Male,5.62,63.7,7.1,Delhi,Placed
+STU0907,AI&DS,5,Male,7.92,98.9,4.7,Hyderabad,Placed
+STU0908,ME,2,Male,8.84,87.1,7.2,Raipur,Not Placed
+STU0909,AI&DS,2,Female,6.87,97.2,1.7,Mumbai,Placed
+STU0910,CSE,2,Female,9.15,86.4,4.2,Mumbai,Placed
+STU0911,EE,1,Female,6.62,89.3,6.1,Hyderabad,Placed
+STU0912,ECE,1,Female,6.62,62.2,1.5,Hyderabad,Not Placed
+STU0913,CSE,7,Female,5.89,98.6,7.1,Raipur,Placed
+STU0914,ECE,3,Female,8.9,71.4,6.3,Bangalore,Placed
+STU0915,CSE,5,Female,9.01,89.4,7.5,Bangalore,Placed
+STU0916,EE,2,Female,7.56,79.6,7.2,Pune,Not Placed
+STU0917,CE,7,Male,8.78,92.4,5.3,Pune,Not Placed
+STU0918,CSE,1,Female,9.87,87.1,5.5,Bangalore,Placed
+STU0919,ME,2,Female,7.34,63.2,6.6,Mumbai,Placed
+STU0920,ECE,5,Male,7.62,71.8,1.3,Raipur,Placed
+STU0921,CE,2,Female,7.07,78.6,6.0,Mumbai,Not Placed
+STU0922,EE,2,Male,5.57,86.5,2.3,Delhi,Not Placed
+STU0923,CSE,2,Female,9.38,71.9,5.1,Pune,Not Placed
+STU0924,CE,5,Female,9.83,94.9,2.3,Delhi,Placed
+STU0925,AI&DS,5,Male,7.17,60.7,3.8,Raipur,Placed
+STU0926,AI&DS,8,Female,8.46,94.8,7.8,Hyderabad,Not Placed
+STU0927,EE,6,Female,9.02,63.5,1.9,Delhi,Placed
+STU0928,CSE,4,Male,6.05,85.9,5.5,Pune,Placed
+STU0929,CSE,5,Female,5.74,76.9,1.8,Delhi,Not Placed
+STU0930,ME,8,Male,9.3,83.4,2.4,Hyderabad,Not Placed
+STU0931,CSE,6,Male,5.51,93.9,4.0,Pune,Not Placed
+STU0932,AI&DS,5,Male,7.44,79.4,5.1,Hyderabad,Not Placed
+STU0933,ECE,1,Male,7.11,72.6,1.4,Bangalore,Not Placed
+STU0934,ME,2,Female,8.11,85.8,4.1,Pune,Placed
+STU0935,ECE,5,Male,7.35,77.5,4.6,Hyderabad,Not Placed
+STU0936,CE,8,Male,9.42,88.9,3.7,Pune,Not Placed
+STU0937,ME,3,Male,6.41,90.0,5.7,Delhi,Placed
+STU0938,ECE,3,Female,5.5,76.6,8.0,Mumbai,Placed
+STU0939,ECE,1,Male,6.79,70.4,5.7,Delhi,Placed
+STU0940,CSE,6,Female,5.57,69.1,4.9,Pune,Not Placed
+STU0941,EE,6,Male,8.85,82.3,7.3,Bangalore,Placed
+STU0942,AI&DS,1,Female,8.99,98.5,6.3,Raipur,Placed
+STU0943,CE,1,Male,5.84,64.7,2.4,Mumbai,Placed
+STU0944,AI&DS,5,Female,8.81,79.9,7.1,Delhi,Not Placed
+STU0945,EE,3,Male,9.24,77.6,3.9,Raipur,Placed
+STU0946,ME,6,Female,7.53,63.4,3.6,Pune,Not Placed
+STU0947,AI&DS,4,Male,8.77,81.2,6.5,Delhi,Not Placed
+STU0948,ME,7,Female,9.76,80.6,5.8,Raipur,Not Placed
+STU0949,ECE,1,Male,5.42,72.6,7.9,Delhi,Not Placed
+STU0950,CSE,7,Male,8.3,85.7,7.3,Raipur,Not Placed
+STU0951,ME,7,Female,8.61,72.5,3.4,Mumbai,Placed
+STU0952,AI&DS,7,Female,8.22,95.5,5.4,Hyderabad,Not Placed
+STU0953,AI&DS,6,Female,8.88,95.2,1.6,Hyderabad,Not Placed
+STU0954,ME,3,Female,6.07,80.5,3.2,Mumbai,Placed
+STU0955,CSE,1,Female,6.21,91.0,6.1,Hyderabad,Placed
+STU0956,AI&DS,1,Female,6.3,80.3,1.9,Bangalore,Placed
+STU0957,ME,5,Male,7.27,99.3,6.6,Hyderabad,Placed
+STU0958,EE,5,Female,8.33,92.6,5.0,Delhi,Not Placed
+STU0959,CE,4,Male,6.64,83.3,6.8,Mumbai,Not Placed
+STU0960,CSE,3,Female,9.14,63.3,1.4,Delhi,Not Placed
+STU0961,ECE,8,Male,6.85,81.1,5.1,Hyderabad,Not Placed
+STU0962,EE,8,Female,9.98,87.6,7.6,Bangalore,Not Placed
+STU0963,ECE,3,Male,7.42,78.3,7.8,Hyderabad,Placed
+STU0964,AI&DS,4,Female,7.37,89.9,7.6,Mumbai,Placed
+STU0965,CE,7,Male,5.6,82.9,1.3,Delhi,Placed
+STU0966,EE,5,Female,6.52,79.4,6.5,Delhi,Not Placed
+STU0967,CSE,5,Female,6.08,92.8,4.4,Raipur,Not Placed
+STU0968,CSE,1,Female,7.41,72.4,4.2,Mumbai,Not Placed
+STU0969,ME,3,Male,7.52,78.4,4.1,Pune,Placed
+STU0970,AI&DS,6,Male,9.0,86.6,3.9,Delhi,Not Placed
+STU0971,EE,1,Female,8.68,85.8,7.1,Bangalore,Placed
+STU0972,CE,5,Male,8.22,63.4,7.7,Hyderabad,Placed
+STU0973,CE,4,Female,7.51,60.7,5.6,Hyderabad,Placed
+STU0974,CSE,5,Male,6.23,88.2,7.2,Pune,Placed
+STU0975,CE,6,Female,7.94,79.7,7.5,Mumbai,Not Placed
+STU0976,ECE,7,Male,9.3,72.7,2.8,Raipur,Placed
+STU0977,CE,3,Female,5.72,70.2,1.6,Mumbai,Not Placed
+STU0978,AI&DS,3,Male,8.07,73.0,1.2,Raipur,Not Placed
+STU0979,ME,2,Female,5.71,95.7,2.8,Raipur,Placed
+STU0980,ECE,4,Male,7.46,90.1,3.7,Raipur,Not Placed
+STU0981,CSE,6,Female,7.77,62.6,1.2,Bangalore,Placed
+STU0982,CSE,5,Male,6.23,82.2,6.5,Mumbai,Not Placed
+STU0983,ME,2,Male,8.91,65.7,4.8,Delhi,Placed
+STU0984,CE,7,Female,5.21,92.5,7.7,Hyderabad,Not Placed
+STU0985,AI&DS,3,Male,5.3,96.9,2.9,Mumbai,Not Placed
+STU0986,EE,4,Female,5.23,89.6,4.9,Mumbai,Placed
+STU0987,ME,2,Male,8.63,100.0,7.1,Delhi,Not Placed
+STU0988,AI&DS,6,Female,9.9,88.3,2.9,Bangalore,Not Placed
+STU0989,EE,4,Female,9.79,73.1,7.4,Delhi,Placed
+STU0990,CE,8,Male,9.51,86.9,3.9,Bangalore,Not Placed
+STU0991,ME,2,Male,7.69,95.7,6.7,Pune,Placed
+STU0992,EE,7,Female,6.93,93.6,6.7,Raipur,Placed
+STU0993,ME,6,Male,7.22,68.9,1.1,Mumbai,Not Placed
+STU0994,ECE,2,Female,9.04,68.8,7.9,Mumbai,Placed
+STU0995,EE,8,Male,5.04,99.4,5.5,Raipur,Not Placed
+STU0996,CE,8,Male,7.76,86.4,5.0,Bangalore,Placed
+STU0997,CSE,3,Male,5.64,97.3,7.0,Hyderabad,Not Placed
+STU0998,ECE,1,Female,8.4,95.3,1.0,Pune,Placed
+STU0999,EE,7,Female,6.37,87.2,4.3,Mumbai,Placed
+STU1000,AI&DS,4,Male,6.39,76.8,4.1,Raipur,Not Placed

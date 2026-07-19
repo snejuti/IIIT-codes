@@ -1,0 +1,11 @@
+import numpy as np
+arr = np.array([4,8,15,16,23,42])
+print(arr)
+sum = np.sum(arr)
+print(sum)
+mean = np.mean(arr)
+print(mean)
+max= np.max(arr)
+print(max)
+min = np.min(arr)
+print(min)
